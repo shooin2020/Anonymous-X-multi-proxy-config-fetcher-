@@ -59,6 +59,11 @@ class ProxyConfig:
             ChannelConfig("https://t.me/warpscanner")
             ChannelConfig("https://t.me/xs_filternet")
             ChannelConfig("https://t.me/ConfigWireguard")
+            ChannelConfig("https://t.me/vlesskeys")
+            ChannelConfig("https://t.me/Outline_FreeKey")
+            ChannelConfig("https://t.me/vpnfail_vless")
+            ChannelConfig("https://t.me/openkeysfree")
+            
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
