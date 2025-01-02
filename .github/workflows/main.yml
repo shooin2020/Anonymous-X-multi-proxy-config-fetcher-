@@ -1,0 +1,9 @@
+# Clone the repository
+git clone https://github.com/yourusername/multi-proxy-config-fetcher.git
+cd multi-proxy-config-fetcher
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run manually
+python src/fetch_configs.py
