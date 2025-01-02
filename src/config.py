@@ -67,7 +67,7 @@ class ProxyConfig:
 
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 5,
-            "max": 15
+            "max": 100
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
