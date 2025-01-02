@@ -63,7 +63,6 @@ class ProxyConfig:
             ChannelConfig("https://t.me/Outline_FreeKey")
             ChannelConfig("https://t.me/vpnfail_vless")
             ChannelConfig("https://t.me/openkeysfree")
-            
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
