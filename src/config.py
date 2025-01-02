@@ -54,6 +54,11 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://t.me/s/VlessConfig"),
             ChannelConfig("https://t.me/s/freewireguard")
+            ChannelConfig("https://t.me/WireVpnGuard")
+            ChannelConfig("https://t.me/v2ray_Extractor")
+            ChannelConfig("https://t.me/warpscanner")
+            ChannelConfig("https://t.me/xs_filternet")
+            ChannelConfig("https://t.me/ConfigWireguard")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
