@@ -38,8 +38,6 @@ trojan://telegram-id-privatevpns@52.29.12.156:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@54.220.247.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-vless://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&encryption=none&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://%40v2rayng_vpnn@91.107.158.244:50487?security=reality&encryption=none&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah10.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
@@ -51,6 +49,8 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah12.fast.hosting-ip.com:80?p
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah13.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah14.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
+
+vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah15.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah7.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
@@ -67,6 +67,8 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah3.fast.hosting-ip.com:80?pa
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah4.fast.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&fp=randomized&type=ws&sni=edge.validbv3528.ir#Gozargah%20Azadi%20%F0%9F%94%8BWithout%20fake%20dns
 
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah6.fast.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&fp=randomized&type=ws&sni=edge.validbv3528.ir#Gozargah%20Azadi%20%F0%9F%94%8BWithout%20fake%20dns
+
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuMTU1LjEwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTAwLTM4LTYyLTI1LnM1LmRiLWxpbmswMi50b3AiLAogICAgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xOC40Mi4xNzIiLAogICAgInBvcnQiOiAyMDgyLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuMTU1LjEwLTA4NjEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMjIxLjI0OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjEwMC00OC0yMDItMTQzLnMxLmRiLWxpbmswMS50b3AiLAogICAgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xNy4xNTQuMjIzIiwKICAgICJwb3J0IjogMjA4NiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE3LjIyMS4yNDgtMDc4NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjEwMC00OC0yMDItMTQzLnMxLmRiLWxpbmswMS50b3AiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
