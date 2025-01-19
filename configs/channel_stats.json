@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-19T05:20:46.075996",
+  "timestamp": "2025-01-19T06:29:09.827836",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.39,
+        "avg_response_time": 1.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.66,
-        "last_success": "2025-01-19T05:20:24.499803"
+        "overall_score": 94.52,
+        "last_success": "2025-01-19T06:28:51.622038"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.71,
-        "last_success": "2025-01-19T05:20:45.191115"
+        "overall_score": 89.68,
+        "last_success": "2025-01-19T06:29:05.493120"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.77,
+        "avg_response_time": 4.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.58,
-        "last_success": "2025-01-19T05:20:45.987195"
+        "overall_score": 88.46,
+        "last_success": "2025-01-19T06:29:09.703665"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.37,
-        "last_success": "2025-01-19T05:20:46.074594"
+        "overall_score": 92.32,
+        "last_success": "2025-01-19T06:29:09.826453"
       }
     }
   ]
