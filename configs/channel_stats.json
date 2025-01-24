@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-24T14:21:14.318014",
+  "timestamp": "2025-01-24T15:23:40.894055",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 5.61,
+        "avg_response_time": 4.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.83,
-        "last_success": "2025-01-24T14:20:55.233020"
+        "overall_score": 84.21,
+        "last_success": "2025-01-24T15:23:23.133134"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.43,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.64,
-        "last_success": "2025-01-24T14:21:13.728959"
+        "overall_score": 88.13,
+        "last_success": "2025-01-24T15:23:34.924006"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 5.83,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.09,
-        "last_success": "2025-01-24T14:21:14.189512"
+        "overall_score": 85.99,
+        "last_success": "2025-01-24T15:23:40.785078"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 15,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.13,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.48,
-        "last_success": "2025-01-24T14:21:14.316353"
+        "overall_score": 99.84,
+        "last_success": "2025-01-24T15:23:40.892205"
       }
     }
   ]
