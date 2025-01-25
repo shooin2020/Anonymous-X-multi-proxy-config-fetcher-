@@ -14,47 +14,41 @@ trojan://telegram-id-directvpn@18.199.42.198:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@35.181.103.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@13.39.181.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-privatevpns@13.50.53.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
+
 trojan://telegram-id-privatevpns@3.125.245.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@3.9.71.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
+
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-privatevpns@51.20.164.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@51.24.50.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.134.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@51.44.134.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@54.72.194.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@54.73.212.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@63.177.194.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.177.39.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
+vless://0af03b20-981a-4e9a-8c35-f9014f81e84c@tls.zeoaeriedo-saioesrio.ir:2000?security=&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&encryption=none#https://t.me/ShadowsocksM
+
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah10.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah11.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah12.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah13.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah14.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah15.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah7.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah8.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 
 vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah9.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
+
+vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?security=&type=ws&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&encryption=none#https://t.me/ShadowsocksM
 
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah1.fast.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&fp=randomized&type=ws&sni=edge.validbv3528.ir#Gozargah%20Azadi%20%F0%9F%94%8BWithout%20fake%20dns
 
@@ -65,6 +59,12 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah3.fast.hosting-ip.com:80?pa
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah4.fast.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&fp=randomized&type=ws&sni=edge.validbv3528.ir#Gozargah%20Azadi%20%F0%9F%94%8BWithout%20fake%20dns
 
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@gozargah6.fast.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&fp=randomized&type=ws&sni=edge.validbv3528.ir#Gozargah%20Azadi%20%F0%9F%94%8BWithout%20fake%20dns
+
+vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?security=&type=ws&path=/&encryption=none#https://t.me/ShadowsocksM
+
+vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?security=&type=ws&path=/&encryption=none#https://t.me/ShadowsocksM
+
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@speedtest.net:80?security=&type=ws&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed%3D2048&host=JoiIInNn--DIgiv2Ray.Ir.&encryption=none#https://t.me/ShadowsocksM
 
 vless://d7807075-738b-4032-8124-f11eb88dd097@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
