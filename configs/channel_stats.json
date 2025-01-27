@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-01-27T08:29:54.334989",
+  "timestamp": "2025-01-27T09:25:12.072821",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 29,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.44,
+        "total_configs": 48,
+        "valid_configs": 27,
+        "unique_configs": 27,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.31,
-        "last_success": "2025-01-27T08:29:31.926857"
+        "overall_score": 88.15,
+        "last_success": "2025-01-27T09:24:48.881079"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.42,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.02,
-        "last_success": "2025-01-27T08:29:43.816360"
+        "overall_score": 93.38,
+        "last_success": "2025-01-27T09:25:01.191569"
       }
     },
     {
@@ -50,24 +50,24 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.16,
-        "last_success": "2025-01-27T08:29:44.226235"
+        "overall_score": 94.0,
+        "last_success": "2025-01-27T09:25:01.712575"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 24,
-        "valid_configs": 4,
-        "unique_configs": 4,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     }
