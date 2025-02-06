@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-02-05T23:21:44.180843",
+  "timestamp": "2025-02-06T01:48:11.391213",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 29,
-        "valid_configs": 23,
-        "unique_configs": 23,
+        "total_configs": 38,
+        "valid_configs": 27,
+        "unique_configs": 27,
         "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.19,
-        "last_success": "2025-02-05T23:21:21.431021"
+        "overall_score": 92.12,
+        "last_success": "2025-02-06T01:47:48.281866"
       }
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 2,
-        "unique_configs": 2,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.3,
-        "last_success": "2025-02-05T23:21:44.140847"
+        "overall_score": 95.23,
+        "last_success": "2025-02-06T01:48:11.266142"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.95,
-        "last_success": "2025-02-05T23:21:44.179032"
+        "overall_score": 99.82,
+        "last_success": "2025-02-06T01:48:11.389519"
       }
     }
   ]
