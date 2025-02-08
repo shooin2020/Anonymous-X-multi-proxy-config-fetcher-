@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-02-08T09:21:08.800656",
+  "timestamp": "2025-02-08T10:22:38.430098",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 36,
-        "valid_configs": 24,
-        "unique_configs": 24,
-        "avg_response_time": 0.41,
+        "total_configs": 20,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.05,
-        "last_success": "2025-02-08T09:20:46.611210"
+        "overall_score": 88.09,
+        "last_success": "2025-02-08T10:22:26.075585"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": true,
       "metrics": {
-        "total_configs": 24,
-        "valid_configs": 5,
-        "unique_configs": 3,
+        "total_configs": 42,
+        "valid_configs": 15,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -36,11 +36,11 @@
         "total_configs": 17,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.61,
-        "last_success": "2025-02-08T09:20:58.207931"
+        "overall_score": 93.49,
+        "last_success": "2025-02-08T10:22:37.940668"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.29,
-        "last_success": "2025-02-08T09:20:58.592060"
+        "overall_score": 95.19,
+        "last_success": "2025-02-08T10:22:38.392818"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 6,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.03,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 99.95,
+        "last_success": "2025-02-08T10:22:38.428789"
       }
     }
   ]
