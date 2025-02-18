@@ -34,15 +34,13 @@ trojan://telegram-id-privatevpns@13.60.149.22:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@35.156.44.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.29.112.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+trojan://telegram-id-privatevpns@35.181.220.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.47.197.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+trojan://telegram-id-privatevpns@52.29.112.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@54.217.200.220:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-privatevpns@63.176.184.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@64.225.94.56:5959?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://15ce6637-4b61-4d05-ac41-fd6acc002262@103.180.236.102:15006/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%201 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -59,6 +57,8 @@ vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2F3Bc2FravW
 vless://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://bbde5a0d-b2fa-5c2f-a642-f6a65976acf3@5.181.23.67:2052/?type=grpc&encryption=none&serviceName=vless-grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%201 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vless://d8c81a8c-dacb-4e7b-8642-8da23a97476a@lbm-lbm--lbm--lbm--lbm--lbm--lbm.rdid.info:13/?type=tcp&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%202 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883232709.rome-mpl-dr.info:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%208 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
