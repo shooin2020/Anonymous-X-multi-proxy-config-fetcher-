@@ -14,6 +14,8 @@ trojan://telegram-id-privatevpns@15.236.63.215:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.236.63.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.237.148.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@18.158.36.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.198.142.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -32,8 +34,6 @@ trojan://telegram-id-privatevpns@35.181.203.236:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@52.213.58.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.59.173.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@52.59.173.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#Gozargah%20%E2%9C%85%F0%9F%92%A1
@@ -45,6 +45,8 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@172.64.162.60:443?path=%2F%3Fed%3D2
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.16.132.207:80?path=%2F3Bc2FravWgXBrnlN%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah2.validbv7996.ir&fp=randomized&type=ws&sni=gozargah2.validbv7996.ir#%F0%9F%87%B9%F0%9F%87%B7%20Gozargah%20%E2%9C%85
 
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2F3Bc2FravWgXBrnlN%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah2.validbv7996.ir&fp=randomized&type=ws&sni=gozargah2.validbv7996.ir#%F0%9F%87%B9%F0%9F%87%B7%20Gozargah%20%E2%9C%85
+
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@188.245.206.4:14360?type=tcp&security=none#@V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://ewogICAgImFkZCI6ICI1LjE5Ni4yOS4xMjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDgyLAogICAgInBzIjogIvCfh6vwn4e3RlItNS4xOTYuMjkuMTIzLTA0MzAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
