@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-02-26T14:23:06.654948",
+  "timestamp": "2025-02-26T15:27:04.945596",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 25,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.47,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.29,
-        "last_success": "2025-02-26T14:22:54.475903"
+        "overall_score": 91.13,
+        "last_success": "2025-02-26T15:26:52.051331"
       }
     },
     {
@@ -34,27 +34,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.38,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.91,
-        "last_success": "2025-02-26T14:23:06.178604"
+        "overall_score": 90.04,
+        "last_success": "2025-02-26T15:27:04.336194"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.14,
-        "last_success": "2025-02-26T14:23:06.603363"
+        "overall_score": 92.96,
+        "last_success": "2025-02-26T15:27:04.889503"
       }
     },
     {
@@ -67,8 +67,8 @@
         "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.76,
-        "last_success": "2025-02-26T14:23:06.653074"
+        "overall_score": 95.75,
+        "last_success": "2025-02-26T15:27:04.944096"
       }
     }
   ]
