@@ -1,32 +1,32 @@
 {
-  "timestamp": "2025-03-03T17:22:14.930981",
+  "timestamp": "2025-03-03T18:30:51.443422",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 37,
-        "valid_configs": 28,
-        "unique_configs": 28,
-        "avg_response_time": 0.65,
+        "total_configs": 20,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.94,
-        "last_success": "2025-03-03T17:21:51.551104"
+        "overall_score": 91.82,
+        "last_success": "2025-03-03T18:30:49.923453"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 27,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 9,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.47,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 88.18,
+        "last_success": "2025-03-03T18:30:50.432371"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.84,
-        "last_success": "2025-03-03T17:22:04.141596"
+        "overall_score": 90.95,
+        "last_success": "2025-03-03T18:30:50.944588"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.62,
-        "last_success": "2025-03-03T17:22:04.709627"
+        "overall_score": 97.79,
+        "last_success": "2025-03-03T18:30:51.404389"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 6,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.04,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 95.78,
+        "last_success": "2025-03-03T18:30:51.442006"
       }
     }
   ]
