@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-05T16:36:21.304741",
+  "timestamp": "2025-03-05T17:21:47.840534",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 46,
-        "valid_configs": 40,
-        "unique_configs": 38,
-        "avg_response_time": 0.48,
+        "valid_configs": 39,
+        "unique_configs": 37,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.76,
-        "last_success": "2025-03-05T16:36:19.893413"
+        "overall_score": 94.3,
+        "last_success": "2025-03-05T17:21:46.549985"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 9,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.24,
-        "last_success": "2025-03-05T16:36:20.357384"
+        "overall_score": 88.29,
+        "last_success": "2025-03-05T17:21:46.982925"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.86,
-        "last_success": "2025-03-05T16:36:20.779447"
+        "overall_score": 93.9,
+        "last_success": "2025-03-05T17:21:47.377718"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.51,
-        "last_success": "2025-03-05T16:36:21.255568"
+        "overall_score": 91.62,
+        "last_success": "2025-03-05T17:21:47.781211"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.76,
-        "last_success": "2025-03-05T16:36:21.302928"
+        "overall_score": 95.75,
+        "last_success": "2025-03-05T17:21:47.839197"
       }
     }
   ]
