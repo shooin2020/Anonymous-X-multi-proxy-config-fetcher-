@@ -14,6 +14,8 @@ trojan://telegram-id-directvpn@35.180.80.3:22222?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-privatevpns@13.36.222.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-privatevpns@13.36.222.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@13.36.45.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.51.155.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -25,8 +27,6 @@ trojan://telegram-id-privatevpns@18.170.83.185:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.185.162.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.11.130.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.73.167.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@34.247.116.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
@@ -72,6 +72,8 @@ wireguard://ABG0VH79GxNtSt8CLNFe8KOEMk0irQ90ZPFTi2kkE28%3D@188.114.96.33:946?add
 
 wireguard://GCEdQ1prtbpETSrno%2Bl564MrS1kQnHT%2FnflO56QcJH4%3D@188.114.98.127:939?address=172.16.0.2%2F32&reserved=16%2C196%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-07 10:04
 
+wireguard://OB8EuAfBbYaUcFfh8pWcW55pRGH6LUFEOPeQJtt7PFs%3D@188.114.97.174:1014?address=172.16.0.2%2F32&reserved=176%2C221%2C60&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-09 21:04
+
 wireguard://SGjxl16MwdF3CDzczFK9RgLpZireT487RVT8gU7%2BdWs%3D@188.114.98.225:942?address=172.16.0.2%2F32&reserved=195%2C227%2C177&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-05 18:01
 
 wireguard://UKsd6lugs%2FYSS2sElFTE1YoQp8UziQHEstKMXVvmHkM%3D@188.114.97.231:942?address=172.16.0.2%2F32&reserved=235%2C241%2C127&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-05 10:02
@@ -89,8 +91,6 @@ wireguard://oEMAdgwTfwWQBhjmf0V8Ps6IWRrc2zr%2BmazxzHwzf04%3D@188.114.97.17:987?a
 wireguard://qAOrl7dSgNAhwwIj9sda93rNzmntzzASobXh2VceDko%3D@188.114.97.34:988?address=172.16.0.2%2F32&reserved=230%2C216%2C151&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-07 18:03
 
 wireguard://sFg1MCFmRrf1nbi83EzQt0d66D2SPb8Maj%2Fe2RJZSlE%3D@188.114.97.119:908?address=172.16.0.2%2F32&reserved=235%2C12%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-07 21:02
-
-wireguard://uGIaELNfAHfrunmCHuLvN%2BrcxJRPN98O0eCw5zWXxk0%3D@188.114.98.51:988?address=172.16.0.2%2F32&reserved=121%2C145%2C47&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-04 21:02
 
 wireguard://wAV41DYovUJP%2BjYpL3ZzE%2FzBozLO%2B5FWO4HU9jxQZUs%3D@188.114.98.171:987?address=172.16.0.2%2F32&reserved=37%2C68%2C154&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-09 18:00
 
