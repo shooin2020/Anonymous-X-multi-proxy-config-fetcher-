@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-26T03:02:24.833831",
+  "timestamp": "2025-03-26T04:28:41.087497",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.51,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.99,
-        "last_success": "2025-03-26T03:02:12.398033"
+        "overall_score": 94.31,
+        "last_success": "2025-03-26T04:28:28.151242"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 12,
-        "unique_configs": 11,
-        "avg_response_time": 0.4,
+        "valid_configs": 11,
+        "unique_configs": 10,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.97,
-        "last_success": "2025-03-26T03:02:24.320003"
+        "overall_score": 88.36,
+        "last_success": "2025-03-26T04:28:40.537897"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.17,
-        "last_success": "2025-03-26T03:02:24.785489"
+        "overall_score": 95.12,
+        "last_success": "2025-03-26T04:28:41.037467"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.93,
-        "last_success": "2025-03-26T03:02:24.831988"
+        "last_success": "2025-03-26T04:28:41.086009"
       }
     }
   ]
