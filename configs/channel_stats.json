@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-01T06:36:08.056556",
+  "timestamp": "2025-04-01T07:25:14.700492",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -12,14 +12,14 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 91.69,
-        "last_success": "2025-04-01T06:35:54.666343"
+        "last_success": "2025-04-01T07:25:00.810054"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 3,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 13,
-        "unique_configs": 12,
-        "avg_response_time": 0.52,
+        "valid_configs": 12,
+        "unique_configs": 11,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.42,
-        "last_success": "2025-04-01T06:36:07.302383"
+        "overall_score": 89.72,
+        "last_success": "2025-04-01T07:25:13.419806"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.52,
+        "avg_response_time": 1.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.05,
-        "last_success": "2025-04-01T06:36:07.850378"
+        "overall_score": 94.3,
+        "last_success": "2025-04-01T07:25:14.468758"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2025-04-01T06:36:08.054690"
+        "overall_score": 99.66,
+        "last_success": "2025-04-01T07:25:14.698546"
       }
     }
   ]
