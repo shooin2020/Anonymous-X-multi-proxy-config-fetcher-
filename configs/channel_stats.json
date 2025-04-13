@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-13T16:29:45.315880",
+  "timestamp": "2025-04-13T17:20:34.984231",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.47,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 1.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.55,
-        "last_success": "2025-04-13T16:29:30.577798"
+        "overall_score": 90.92,
+        "last_success": "2025-04-13T17:20:20.067760"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 17,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.99,
-        "last_success": "2025-04-13T16:29:43.926304"
+        "overall_score": 94.49,
+        "last_success": "2025-04-13T17:20:33.725715"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 1.26,
+        "avg_response_time": 1.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.55,
-        "last_success": "2025-04-13T16:29:45.210097"
+        "overall_score": 98.22,
+        "last_success": "2025-04-13T17:20:34.935196"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-04-13T16:29:45.314061"
+        "overall_score": 99.93,
+        "last_success": "2025-04-13T17:20:34.982778"
       }
     }
   ]
