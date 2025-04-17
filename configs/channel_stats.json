@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-17T06:35:11.052210",
+  "timestamp": "2025-04-17T07:25:31.110718",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 24,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.74,
+        "total_configs": 20,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 1.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.56,
-        "last_success": "2025-04-17T06:34:57.785222"
+        "overall_score": 87.69,
+        "last_success": "2025-04-17T07:25:15.975198"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.4,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.9,
-        "last_success": "2025-04-17T06:35:09.897463"
+        "overall_score": 92.92,
+        "last_success": "2025-04-17T07:25:30.299253"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 1.08,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.38,
-        "last_success": "2025-04-17T06:35:11.003275"
+        "overall_score": 99.08,
+        "last_success": "2025-04-17T07:25:30.934695"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.93,
-        "last_success": "2025-04-17T06:35:11.050321"
+        "overall_score": 99.74,
+        "last_success": "2025-04-17T07:25:31.109073"
       }
     }
   ]
