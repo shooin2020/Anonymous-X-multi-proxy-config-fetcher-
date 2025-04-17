@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-04-17T11:20:35.322943",
+  "timestamp": "2025-04-17T12:51:36.324795",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 44,
-        "valid_configs": 25,
-        "unique_configs": 25,
-        "avg_response_time": 0.96,
+        "valid_configs": 26,
+        "unique_configs": 26,
+        "avg_response_time": 1.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.77,
-        "last_success": "2025-04-17T11:20:12.132136"
+        "overall_score": 87.6,
+        "last_success": "2025-04-17T12:51:09.621674"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.33,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 1.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.0,
-        "last_success": "2025-04-17T11:20:23.710731"
+        "overall_score": 84.17,
+        "last_success": "2025-04-17T12:51:24.622992"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 1.48,
+        "avg_response_time": 1.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.77,
-        "last_success": "2025-04-17T11:20:25.219704"
+        "overall_score": 97.87,
+        "last_success": "2025-04-17T12:51:26.070000"
       }
     },
     {
@@ -62,8 +62,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 3,
-        "unique_configs": 3,
+        "valid_configs": 1,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
