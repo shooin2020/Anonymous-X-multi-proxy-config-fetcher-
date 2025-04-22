@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-22T06:35:28.906814",
+  "timestamp": "2025-04-22T07:25:13.077994",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.5,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.75,
-        "last_success": "2025-04-22T06:35:16.081428"
+        "overall_score": 95.33,
+        "last_success": "2025-04-22T07:24:57.986156"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.45,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.74,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.33,
-        "last_success": "2025-04-22T06:35:28.381639"
+        "overall_score": 82.64,
+        "last_success": "2025-04-22T07:25:11.447386"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 1.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.41,
-        "last_success": "2025-04-22T06:35:28.840621"
+        "overall_score": 94.88,
+        "last_success": "2025-04-22T07:25:12.924282"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.9,
-        "last_success": "2025-04-22T06:35:28.905407"
+        "overall_score": 99.77,
+        "last_success": "2025-04-22T07:25:13.076705"
       }
     }
   ]
