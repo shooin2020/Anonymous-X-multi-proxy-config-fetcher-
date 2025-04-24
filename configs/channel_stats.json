@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-04-24T04:29:51.890266",
+  "timestamp": "2025-04-24T05:26:04.374797",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 27,
-        "valid_configs": 20,
-        "unique_configs": 20,
-        "avg_response_time": 1.54,
+        "valid_configs": 19,
+        "unique_configs": 19,
+        "avg_response_time": 1.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.2,
-        "last_success": "2025-04-24T04:29:37.291461"
+        "overall_score": 90.67,
+        "last_success": "2025-04-24T05:25:51.843915"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 14,
-        "valid_configs": 11,
-        "unique_configs": 11,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.07,
-        "last_success": "2025-04-24T04:29:51.033664"
+        "overall_score": 95.86,
+        "last_success": "2025-04-24T05:26:03.811836"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.71,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.77,
-        "last_success": "2025-04-24T04:29:51.770180"
+        "overall_score": 95.22,
+        "last_success": "2025-04-24T05:26:04.246808"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-04-24T04:29:51.888715"
+        "overall_score": 99.81,
+        "last_success": "2025-04-24T05:26:04.373405"
       }
     }
   ]
