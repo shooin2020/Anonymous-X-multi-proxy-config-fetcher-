@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-27T15:24:31.328946",
+  "timestamp": "2025-04-27T16:29:01.086397",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 1.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.11,
-        "last_success": "2025-04-27T15:24:17.535102"
+        "overall_score": 91.44,
+        "last_success": "2025-04-27T16:28:47.382474"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.36,
+        "total_configs": 20,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 1.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.21,
-        "last_success": "2025-04-27T15:24:30.845930"
+        "overall_score": 89.49,
+        "last_success": "2025-04-27T16:29:00.406974"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.89,
-        "last_success": "2025-04-27T15:24:31.238588"
+        "overall_score": 97.51,
+        "last_success": "2025-04-27T16:29:01.052265"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.87,
-        "last_success": "2025-04-27T15:24:31.327662"
+        "overall_score": 99.95,
+        "last_success": "2025-04-27T16:29:01.085117"
       }
     }
   ]
