@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-07T11:22:18.906740",
+  "timestamp": "2025-05-07T12:55:23.428397",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 27,
-        "valid_configs": 17,
-        "unique_configs": 17,
+        "valid_configs": 18,
+        "unique_configs": 18,
         "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.82,
-        "last_success": "2025-05-07T11:22:06.639091"
+        "overall_score": 90.76,
+        "last_success": "2025-05-07T12:55:10.589227"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
+        "total_configs": 19,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.92,
-        "last_success": "2025-05-07T11:22:18.368511"
+        "overall_score": 92.65,
+        "last_success": "2025-05-07T12:55:22.831909"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.45,
-        "last_success": "2025-05-07T11:22:18.796475"
+        "overall_score": 96.25,
+        "last_success": "2025-05-07T12:55:23.392372"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.84,
-        "last_success": "2025-05-07T11:22:18.905321"
+        "overall_score": 99.95,
+        "last_success": "2025-05-07T12:55:23.426946"
       }
     }
   ]
