@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-09T09:27:13.717724",
+  "timestamp": "2025-05-09T10:27:46.625033",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.44,
+        "total_configs": 24,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.59,
-        "last_success": "2025-05-09T09:27:01.791168"
+        "overall_score": 88.72,
+        "last_success": "2025-05-09T10:27:33.875476"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.33,
+        "total_configs": 13,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.5,
-        "last_success": "2025-05-09T09:27:13.297926"
+        "overall_score": 99.26,
+        "last_success": "2025-05-09T10:27:46.045673"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.31,
-        "last_success": "2025-05-09T09:27:13.667842"
+        "overall_score": 95.08,
+        "last_success": "2025-05-09T10:27:46.570104"
       }
     },
     {
@@ -67,8 +67,8 @@
         "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.93,
-        "last_success": "2025-05-09T09:27:13.716391"
+        "overall_score": 99.92,
+        "last_success": "2025-05-09T10:27:46.623717"
       }
     }
   ]
