@@ -22,8 +22,6 @@ trojan://telegram-id-privatevpns@18.195.86.160:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@3.64.181.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.77.67.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.79.133.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.226.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -32,39 +30,21 @@ trojan://telegram-id-privatevpns@52.58.144.133:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.176.33.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://0850ed39-e837-4f82-fe2a-d6cc91283ddc@45.76.231.225:8080?type=ws&security=none&path=%2F#telegram DailyV2ry
-
-vless://16e97003-110a-423b-fe25-0dc26485939e@19150425995513.nw1DwIEEXTr6.krasqaqani.com:8880?type=grpc&security=none&serviceName=#telegram DailyV2ry
-
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@scorpion1.info:2087?encryption=none&security=tls&sni=Tp418J93y1.MoLaNaMaMaLi1.InFo&type=ws&alpn=h2http/1.1&host=Tp418J93y1.MoLaNaMaMaLi1.InFo&path=/#telegram DailyV2ry
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.217.208:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram DailyV2ry
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.141.252:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram DailyV2ry
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.20.121:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram DailyV2ry
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.26.43:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram DailyV2ry
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.174.240:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram DailyV2ry
-
-vless://84630ddd-b04a-4494-aa3a-b831a9873b81@cloudgetservice.mcloudservice.site:443?type=ws&encryption=none&security=tls&host=maxnetvipaP-us4.NetKh3.sItE&path=/linkws?ed=2560&sni=maxnetvipaP-us4.NetKh3.sItE#telegram DailyV2ry
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#telegram DailyV2ry
+trojan://telegram-id-privatevpns@63.178.76.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
 
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:8443?path=%2FHl5ZA0QBitIoHN9C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAh.vALidBv7996.Ir#Gozargah%E2%AD%905
+
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:443?path=%2FOBFV60WlJSJMGU5U%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=gozArgAh.VaLiDBV7996.Ir#Gozargah%E2%AD%903
+
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=goZARGah.validBv7996.ir#Gozargah%E2%AD%906
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6kwamNEbtFNK%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAH.VaLIDbV7996.Ir#Gozargah%E2%AD%901
 
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site#telegram DailyV2ry
-
-vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@136.244.89.150:4191/?type=tcp&encryption=none&sni=www.pcmag.com&fp=chrome&security=reality&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&sid=#telegram DailyV2ry
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45Va3SCDF38lw3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GoZargah.VAlidBv7996.Ir#Gozargah%E2%AD%904
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDYxIHwgIDEuMk1CL3N8T3BlbmFpfEdlbWluaSIsICJhZGQiOiAidjI5LmhlZHVpYW4ubGluayIsICJwb3J0IjogMzA4MjksICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28ifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjLogRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjIwODMsImlkIjoiNjk4ZDlhNWItNTlkYy00ZWE2LWI0MDQtY2Q5ZTk2N2ZjNTRjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiQ2FuYURhLTEzOC5ibEF6ZWNBbkFkQS5TSVRlIiwicGF0aCI6IlwvbGlua3Zrd3MiLCJ0bHMiOiJ0bHMifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDYxIHwgIDEuMk1CL3N8T3BlbmFpfEdlbWluaSIsImFkZCI6InYyOS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MjkiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9vb29vIiwiaG9zdCI6Im9jYmMuY29tIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
