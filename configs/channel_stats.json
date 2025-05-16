@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-15T23:24:13.762674",
+  "timestamp": "2025-05-16T02:05:53.688714",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.4,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.9,
-        "last_success": "2025-05-15T23:24:01.909584"
+        "overall_score": 92.89,
+        "last_success": "2025-05-16T02:05:40.815348"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.32,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.52,
-        "last_success": "2025-05-15T23:24:13.366932"
+        "overall_score": 85.52,
+        "last_success": "2025-05-16T02:05:52.957108"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.34,
-        "last_success": "2025-05-15T23:24:13.721704"
+        "overall_score": 95.07,
+        "last_success": "2025-05-16T02:05:53.486715"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.94,
-        "last_success": "2025-05-15T23:24:13.761136"
+        "overall_score": 99.7,
+        "last_success": "2025-05-16T02:05:53.686946"
       }
     }
   ]
