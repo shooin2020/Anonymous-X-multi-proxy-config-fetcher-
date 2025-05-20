@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-19T23:23:58.850389",
+  "timestamp": "2025-05-20T02:06:28.115758",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 27,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.43,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.03,
-        "last_success": "2025-05-19T23:23:46.809548"
+        "overall_score": 90.13,
+        "last_success": "2025-05-20T02:06:16.119062"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 11,
-        "unique_configs": 11,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.77,
-        "last_success": "2025-05-19T23:23:58.335479"
+        "overall_score": 91.16,
+        "last_success": "2025-05-20T02:06:27.632226"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.34,
-        "last_success": "2025-05-19T23:23:58.686934"
+        "overall_score": 95.32,
+        "last_success": "2025-05-20T02:06:27.995422"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.76,
-        "last_success": "2025-05-19T23:23:58.848957"
+        "overall_score": 99.82,
+        "last_success": "2025-05-20T02:06:28.114157"
       }
     }
   ]
