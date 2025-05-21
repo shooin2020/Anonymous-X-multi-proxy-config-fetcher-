@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-20T23:23:45.419209",
+  "timestamp": "2025-05-21T02:05:55.460026",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
+        "valid_configs": 11,
+        "unique_configs": 11,
         "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.96,
-        "last_success": "2025-05-20T23:23:33.463069"
+        "overall_score": 88.2,
+        "last_success": "2025-05-21T02:05:43.525391"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.35,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.66,
-        "last_success": "2025-05-20T23:23:45.013464"
+        "overall_score": 90.12,
+        "last_success": "2025-05-21T02:05:55.009593"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.33,
-        "last_success": "2025-05-20T23:23:45.371083"
+        "overall_score": 95.35,
+        "last_success": "2025-05-21T02:05:55.358703"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.93,
-        "last_success": "2025-05-20T23:23:45.417587"
+        "overall_score": 99.85,
+        "last_success": "2025-05-21T02:05:55.458233"
       }
     }
   ]
