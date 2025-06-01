@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-01T15:24:51.888562",
+  "timestamp": "2025-06-01T16:30:31.489562",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.94,
-        "last_success": "2025-06-01T15:24:39.794486"
+        "overall_score": 86.52,
+        "last_success": "2025-06-01T16:30:18.264102"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.34,
+        "total_configs": 16,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.76,
-        "last_success": "2025-06-01T15:24:51.410329"
+        "overall_score": 92.93,
+        "last_success": "2025-06-01T16:30:30.804993"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.23,
-        "last_success": "2025-06-01T15:24:51.770738"
+        "overall_score": 93.96,
+        "last_success": "2025-06-01T16:30:31.349189"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.83,
-        "last_success": "2025-06-01T15:24:51.887243"
+        "overall_score": 99.8,
+        "last_success": "2025-06-01T16:30:31.487034"
       }
     }
   ]
