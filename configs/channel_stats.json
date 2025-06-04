@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-04T21:20:28.146467",
+  "timestamp": "2025-06-04T22:22:58.105361",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 28,
-        "valid_configs": 23,
-        "unique_configs": 23,
-        "avg_response_time": 0.43,
+        "total_configs": 20,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.88,
-        "last_success": "2025-06-04T21:20:15.986860"
+        "overall_score": 95.59,
+        "last_success": "2025-06-04T22:22:46.042945"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.39,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.35,
-        "last_success": "2025-06-04T21:20:27.656630"
+        "overall_score": 82.3,
+        "last_success": "2025-06-04T22:22:57.664684"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.29,
-        "last_success": "2025-06-04T21:20:28.044891"
+        "overall_score": 95.28,
+        "last_success": "2025-06-04T22:22:58.057002"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-06-04T21:20:28.144475"
+        "overall_score": 99.93,
+        "last_success": "2025-06-04T22:22:58.103938"
       }
     }
   ]
