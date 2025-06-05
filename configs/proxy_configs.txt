@@ -6,7 +6,7 @@ trojan://telegram-id-directvpn@13.36.72.7:22223?security=tls&alpn=http/1.1&heade
 
 trojan://telegram-id-directvpn@63.178.159.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@63.178.205.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+trojan://telegram-id-privatevpns@13.36.197.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.36.216.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -62,8 +62,6 @@ wireguard://2Fl%2FG4gPeGm4Vi7KJQb7oHD6sxKfwi525DIy0qETBGc%3D@188.114.96.61:928?a
 
 wireguard://4FfNDqGDDH3lUqnbMaxyupeUfpBttQ8NEi2LwOwkV1w%3D@188.114.96.74:988?address=172.16.0.2%2F32&reserved=236%2C114%2C119&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-31 21:02
 
-wireguard://4Mim26Hv2uUv3CQ3vxfNGg5MwXuc9lBn7Z4UuYPW3FA%3D@188.114.96.68:903?address=172.16.0.2%2F32&reserved=29%2C217%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-30 18:01
-
 wireguard://8KMLV9fKEjVWifH6jVeQ3S0P3%2FKJztl5%2B1V%2Byv7DIl4%3D@188.114.98.42:928?address=172.16.0.2%2F32&reserved=41%2C204%2C54&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-02 18:03
 
 wireguard://KLs2pF79%2FLLqOu6qBrsqw%2BklYnrytoc1w%2FDUOt2h62c%3D@188.114.98.10:880?address=172.16.0.2%2F32&reserved=96%2C173%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-02 21:03
@@ -81,6 +79,8 @@ wireguard://gB9sikXBtuMUNVgcpo%2BY7o2cNzdnsFtoO763%2BfN8WWs%3D@188.114.96.158:90
 wireguard://oIUIhsc5vLkUYN%2FJqFZ7GBnvJtG%2Bgu%2BoWj678WHm2E0%3D@188.114.96.58:946?address=172.16.0.2%2F32&reserved=164%2C73%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-01 10:02
 
 wireguard://oIX0Q1ACtSe7WrpK0hF%2BETQlJqf6ddklj%2Bj2s6YvN3Q%3D@188.114.97.246:903?address=172.16.0.2%2F32&reserved=238%2C117%2C184&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-04 10:04
+
+wireguard://qNvVPzV0hKhx0FXzj%2BoDMKc2XgHZHfVuitEzAzAV%2Bm4%3D@188.114.96.60:1018?address=172.16.0.2%2F32&reserved=217%2C227%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-04 18:04
 
 wireguard://uFKNWLHFqG90eSORX223wPCxwDikNHVISdFDdGwQUXo%3D@188.114.97.122:955?address=172.16.0.2%2F32&reserved=206%2C78%2C12&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-01 18:02
 
