@@ -16,13 +16,13 @@ trojan://telegram-id-privatevpns@15.236.13.62:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@18.156.160.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.195.146.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@35.159.252.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-privatevpns@35.159.252.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.245.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -52,8 +52,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFc
 
 vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTdjYzAzMjMtZGU1My00YTc1LWQ2OWQtYzZhY2RhYzVmZGM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi85N2NjMDMyMyIsICJwb3J0IjogIjQ1MTEzIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtNDMuMTUzLjEwNC42Mjo0NTExMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03MTk3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTU1MTM4MjQzMzIuMi1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 wireguard://%2BCoegDcLHV186n99i8wniN9fNoMKEV0OdKWAOrnLUV0%3D@188.114.97.169:943?address=172.16.0.2%2F32&reserved=187%2C2%2C105&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-03 10:03
 
 wireguard://0C128oYX9Qx1muKdOAM8TcmLFDjPy5h6%2FRKXIbQYkm4%3D@188.114.97.241:943?address=172.16.0.2%2F32&reserved=239%2C106%2C70&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-05 21:04
@@ -65,8 +63,6 @@ wireguard://4FDg8uCIK7UguVB9%2BUf%2FDF0YICyFuZHpKwO8T99pqEI%3D@188.114.99.156:95
 wireguard://4MRzMBJmBam0R%2FPtVrmcEWd%2F%2BRt1r8Fl2bLppwSr%2FX8%3D@188.114.96.173:908?address=172.16.0.2%2F32&reserved=222%2C159%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-07 10:00
 
 wireguard://EDjK3wnEOuPfnOG9P26TS3CiX4YDwu8EeU65p853hFU%3D@188.114.99.252:903?address=172.16.0.2%2F32&reserved=221%2C253%2C4&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-06 10:00
-
-wireguard://KLs2pF79%2FLLqOu6qBrsqw%2BklYnrytoc1w%2FDUOt2h62c%3D@188.114.98.10:880?address=172.16.0.2%2F32&reserved=96%2C173%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-02 21:03
 
 wireguard://QNEdmg%2BDiLON1z8u3mJ4hR6Yw7Yw6KolCHAt7AJ43U0%3D@188.114.98.217:908?address=172.16.0.2%2F32&reserved=80%2C4%2C145&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-06 21:00
 
