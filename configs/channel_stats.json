@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-09T08:36:39.088387",
+  "timestamp": "2025-06-09T09:29:30.993619",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 49,
-        "valid_configs": 41,
-        "unique_configs": 39,
-        "avg_response_time": 0.44,
+        "valid_configs": 42,
+        "unique_configs": 40,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.04,
-        "last_success": "2025-06-09T08:36:15.763876"
+        "overall_score": 94.38,
+        "last_success": "2025-06-09T09:29:06.449331"
       }
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 42,
-        "valid_configs": 1,
-        "unique_configs": 1,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.46,
-        "last_success": "2025-06-09T08:36:39.042203"
+        "overall_score": 88.25,
+        "last_success": "2025-06-09T09:29:30.936376"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.94,
-        "last_success": "2025-06-09T08:36:39.086895"
+        "overall_score": 99.92,
+        "last_success": "2025-06-09T09:29:30.992235"
       }
     }
   ]
