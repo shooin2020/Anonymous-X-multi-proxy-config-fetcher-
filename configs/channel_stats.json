@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-14T02:04:33.837992",
+  "timestamp": "2025-06-14T03:47:12.221500",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.84,
-        "last_success": "2025-06-14T02:04:21.578327"
+        "overall_score": 91.88,
+        "last_success": "2025-06-14T03:47:00.324201"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 16,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.48,
-        "last_success": "2025-06-14T02:04:33.290421"
+        "overall_score": 88.55,
+        "last_success": "2025-06-14T03:47:11.843272"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 10,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.39,
+        "total_configs": 9,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.42,
-        "last_success": "2025-06-14T02:04:33.703740"
+        "overall_score": 99.53,
+        "last_success": "2025-06-14T03:47:12.182897"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.8,
-        "last_success": "2025-06-14T02:04:33.836223"
+        "overall_score": 99.95,
+        "last_success": "2025-06-14T03:47:12.220220"
       }
     }
   ]
