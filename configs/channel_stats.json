@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-18T19:21:04.399011",
+  "timestamp": "2025-06-18T20:30:20.594743",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.65,
-        "last_success": "2025-06-18T19:20:52.027994"
+        "overall_score": 90.61,
+        "last_success": "2025-06-18T20:30:08.540070"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.4,
+        "total_configs": 20,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.29,
-        "last_success": "2025-06-18T19:21:03.864119"
+        "overall_score": 84.49,
+        "last_success": "2025-06-18T20:30:20.168352"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 10,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.42,
-        "last_success": "2025-06-18T19:21:04.279987"
+        "overall_score": 99.48,
+        "last_success": "2025-06-18T20:30:20.543083"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.83,
-        "last_success": "2025-06-18T19:21:04.397362"
+        "overall_score": 99.93,
+        "last_success": "2025-06-18T20:30:20.593266"
       }
     }
   ]
