@@ -44,6 +44,8 @@ vless://4da44876-4817-4598-8752-6f1d6f077847@85.133.253.164:1043?security=none&e
 
 vless://743d64ef-859f-47e5-a8b2-3ff6c699cdcb@46.38.149.105:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
 vless://82b779f0-9240-4838-a722-5358171f1cdb@185.215.228.254:4914?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://8772115e-e2e2-4bc1-9ce7-0fd079331764@95.38.104.61:31475?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -56,21 +58,21 @@ vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&e
 
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
-
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6kwamNEbtFNK%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAH.VaLIDbV7996.Ir#Gozargah%E2%AD%901
-
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
+vless://f388ea6c-9cbf-422a-8623-1a8f03bad584@46.38.147.41:8080?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.133.225.73:80?path=%2F&security=none&encryption=none&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://freewireguard-marg-bar-zahak@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=terror.zahak.ir&path=%2F&mode=auto#marg-bar-zahak
+vless://fb85dd7a-f159-49f2-98bf-8c190be49102@94.182.105.51:22921?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg4Ljc1Ljc5Ljg1OjIwMjM2IiwgImFkZCI6ICIxODguNzUuNzkuODUiLCAicG9ydCI6ICIyMDIzNiIsICJpZCI6ICI1MTljYWM0OC00ZTllLTQ5YTYtYjE5NS0xZWI5YTEzNDI3ZTYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTIzIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3Ljc2LjI4LjQzIiwicG9ydCI6IjM0ODMzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJhZGQiOiAiMTAzLjcyLjUuMjIxIiwgImFpZCI6ICI2NCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJ3d3cuNzI5Njk4NTYueHl6IiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLCAicG9ydCI6ICI0NjY2NiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKUC0xMDMuNzIuNS4yMjE6NDY2NjYiLCAic2N5IjogImF1dG8iLCAic25pIjogInd3dy43Mjk2OTg1Ni54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vmess://eyJhZGQiOiIzNy4yMDIuMjI3LjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMjQ3NzYyNy02YjU4LTQwODQtYmI1OS05N2RlNTU1OTFiMzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwMzAiLCJwcyI6IuKclO+4jvCdkJzwnZCh8J2QmvCdkKfwnZCn8J2QnvCdkKXinqpAQ29uZmlnVjJyYXlGb3JGcmVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 wireguard://4NNS9tTa8v352rFZ3dJ0NlWUrmuyWZtz%2BiPKgSwb7XE%3D@188.114.97.58:942?address=172.16.0.2%2F32&reserved=89%2C171%2C195&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-24 21:02
 
