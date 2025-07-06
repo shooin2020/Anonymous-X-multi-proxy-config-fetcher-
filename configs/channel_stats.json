@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-07-06T07:23:38.805895",
+  "timestamp": "2025-07-06T08:31:53.164858",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "total_configs": 25,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.13,
-        "last_success": "2025-07-06T07:23:26.445752"
+        "overall_score": 91.33,
+        "last_success": "2025-07-06T08:31:40.551537"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.38,
+        "total_configs": 14,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.62,
-        "last_success": "2025-07-06T07:23:38.273699"
+        "overall_score": 92.21,
+        "last_success": "2025-07-06T08:31:52.552437"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.03,
-        "last_success": "2025-07-06T07:23:38.687135"
+        "overall_score": 97.9,
+        "last_success": "2025-07-06T08:31:53.049884"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.83,
-        "last_success": "2025-07-06T07:23:38.804512"
+        "last_success": "2025-07-06T08:31:53.163326"
       }
     }
   ]
