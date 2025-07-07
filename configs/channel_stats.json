@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-07-07T15:28:13.492181",
+  "timestamp": "2025-07-07T16:34:44.064496",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.15,
-        "last_success": "2025-07-07T15:28:01.119397"
+        "overall_score": 94.35,
+        "last_success": "2025-07-07T16:34:31.765979"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.38,
+        "total_configs": 16,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.77,
-        "last_success": "2025-07-07T15:28:12.981743"
+        "overall_score": 85.36,
+        "last_success": "2025-07-07T16:34:43.621464"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 98.05,
-        "last_success": "2025-07-07T15:28:13.387396"
+        "last_success": "2025-07-07T16:34:44.023652"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-07-07T15:28:13.490378"
+        "overall_score": 99.94,
+        "last_success": "2025-07-07T16:34:44.062851"
       }
     }
   ]
