@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-02T21:25:51.360882",
+  "timestamp": "2025-08-02T22:26:45.790422",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 37,
         "valid_configs": 24,
         "unique_configs": 24,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.68,
-        "last_success": "2025-08-02T21:25:28.990380"
+        "overall_score": 90.58,
+        "last_success": "2025-08-02T22:26:33.410873"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 13,
-        "unique_configs": 12,
-        "avg_response_time": 0.36,
+        "valid_configs": 12,
+        "unique_configs": 11,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.84,
-        "last_success": "2025-08-02T21:25:40.870531"
+        "overall_score": 91.1,
+        "last_success": "2025-08-02T22:26:45.343678"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 10,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.46,
-        "last_success": "2025-08-02T21:25:41.255641"
+        "overall_score": 99.44,
+        "last_success": "2025-08-02T22:26:45.742981"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 6,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.04,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 95.77,
+        "last_success": "2025-08-02T22:26:45.788955"
       }
     }
   ]
