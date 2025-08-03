@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-08-03T07:26:05.747915",
+  "timestamp": "2025-08-03T08:34:15.647657",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 23,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.34,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.71,
-        "last_success": "2025-08-03T07:25:53.411820"
+        "overall_score": 91.77,
+        "last_success": "2025-08-03T08:34:03.282190"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 14,
         "valid_configs": 11,
         "unique_configs": 10,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.34,
-        "last_success": "2025-08-03T07:26:05.314788"
+        "overall_score": 91.74,
+        "last_success": "2025-08-03T08:34:15.176419"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 11,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.45,
-        "last_success": "2025-08-03T07:26:05.701805"
+        "overall_score": 99.39,
+        "last_success": "2025-08-03T08:34:15.608627"
       }
     },
     {
@@ -67,8 +67,8 @@
         "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.94,
-        "last_success": "2025-08-03T07:26:05.746595"
+        "overall_score": 99.95,
+        "last_success": "2025-08-03T08:34:15.646012"
       }
     }
   ]
