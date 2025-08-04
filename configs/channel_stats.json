@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-08-04T17:30:52.396789",
+  "timestamp": "2025-08-04T18:43:43.187532",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 28,
-        "valid_configs": 24,
-        "unique_configs": 24,
-        "avg_response_time": 0.52,
+        "valid_configs": 23,
+        "unique_configs": 23,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.66,
-        "last_success": "2025-08-04T17:30:29.918415"
+        "overall_score": 94.88,
+        "last_success": "2025-08-04T18:43:20.906084"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": true,
       "metrics": {
-        "total_configs": 30,
+        "total_configs": 27,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -34,27 +34,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.38,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.18,
-        "last_success": "2025-08-04T17:30:41.897954"
+        "overall_score": 94.77,
+        "last_success": "2025-08-04T18:43:32.685576"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 13,
-        "valid_configs": 13,
-        "unique_configs": 13,
+        "total_configs": 14,
+        "valid_configs": 14,
+        "unique_configs": 14,
         "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.44,
-        "last_success": "2025-08-04T17:30:42.292859"
+        "overall_score": 99.45,
+        "last_success": "2025-08-04T18:43:33.078185"
       }
     },
     {
@@ -62,8 +62,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 3,
-        "unique_configs": 3,
+        "valid_configs": 4,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
