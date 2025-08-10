@@ -12,11 +12,11 @@ trojan://telegram-id-directvpn@3.79.132.34:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@13.37.160.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.38.147.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@13.39.59.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.150.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -70,6 +70,8 @@ wireguard://GED9kTHaF4R3t6IhibG2hznqm39ljPncxwafiaRAlX4%3D@188.114.99.248:946?ad
 
 wireguard://KOY0He6pZon9VcwMaxXoPbjywTizlZNvo66M7eCNDmM%3D@188.114.97.210:968?address=172.16.0.2%2F32&reserved=147%2C241%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-07 21:04
 
+wireguard://MNfnMP4E0u306vdZfdNtPgBRFMmCKYfnRp0wBSFOgGY%3D@188.114.99.243:987?address=172.16.0.2%2F32&reserved=132%2C178%2C225&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-10 18:01
+
 wireguard://QNcupdjmhNi7uu5J9TlGGVFxfA3TndlfVaNGW%2FVQNls%3D@188.114.96.224:988?address=172.16.0.2%2F32&reserved=146%2C197%2C81&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-08 10:04
 
 wireguard://WCCCuvpftPBQVOPeb9MmwQLVBXi8Mm6WMjOoFTwNAGI%3D@188.114.99.182:987?address=172.16.0.2%2F32&reserved=204%2C71%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-05 21:03
@@ -77,8 +79,6 @@ wireguard://WCCCuvpftPBQVOPeb9MmwQLVBXi8Mm6WMjOoFTwNAGI%3D@188.114.99.182:987?ad
 wireguard://eE1GqZMZALTMZ2TDyDzrF2wgkGU5uw0C0VapPf952UM%3D@188.114.97.61:1014?address=172.16.0.2%2F32&reserved=63%2C176%2C85&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-08 18:00
 
 wireguard://eGGG7Td3WVPVC%2FrIQP20FuSaL%2Bd4JI23%2BEv0TvDDQGc%3D@188.114.98.197:908?address=172.16.0.2%2F32&reserved=225%2C78%2C226&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-09 18:00
-
-wireguard://kFg07LdfkM4Cmd1uL7Egtxa%2FpjYTEwNgGRww6q9Hj20%3D@188.114.99.126:1018?address=172.16.0.2%2F32&reserved=67%2C10%2C249&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-05 18:03
 
 wireguard://mNB3r2Cb92z4%2BUmJCxn%2FA4ReWJ0KPigjUO9bClN2wko%3D@188.114.96.179:1018?address=172.16.0.2%2F32&reserved=217%2C2%2C142&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-06 21:04
 
