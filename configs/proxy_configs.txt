@@ -34,10 +34,6 @@ trojan://telegram-id-privatevpns@63.179.73.31:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@63.179.81.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#Allnet%20Telegram%3A%40ultrasurf_12
-
-vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#Allnet%20Telegram%3A%40ultrasurf_12
-
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:8443?path=%2FHl5ZA0QBitIoHN9C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAh.vALidBv7996.Ir#Gozargah%E2%AD%905
@@ -50,13 +46,13 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45Va3SCDF38lw3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GoZargah.VAlidBv7996.Ir#Gozargah%E2%AD%904
 
-vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#Allnet%20Telegram%3A%40ultrasurf_12
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRlbGVncmFtIEB2cG5qZXkgIFx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQVx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQSIsDQogICJhZGQiOiAiMTUxLjEwMS42Ni4yMTkiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI4YjczNmEzYi0zYWI4LTQ4NzUtYWRhYS01YTU4ZGViMjhhZTEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInhodHRwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJwaTYuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwNCiAgInBhdGgiOiAiLz9ob3N0PTIwNDhUZWxlZ3JhbUB2aXR1cmV5VGVsZWdyYW1Adml0dXJleSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZWxlZ3JhbS1SbnJpZmNpLVZpZW5uYS0yIiwKICAiYWRkIjogIjQ1LjEzOC43NC4xNzMiLAogICJwb3J0IjogMTM3MDAsCiAgImlkIjogIjZkZGYzMDQ5LWFjZWEtNDdhMy04OTljLTg2MmU2ZTlkNWQwZiIsCiAgIm5ldCI6ICJncnBjIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJhZGQiOiI2NC4yMjcuNzAuMTM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQzMjgwZjhmLTBkZTYtYmIxMS05M2ZhLWVmMTgwMTliYzc4ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNzAyMSIsInBzIjoi8J+Hs/Cfh7EgQHYycmF5bmdfZmFycyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vmess://eyJhZGQiOiIxNTQuMjIzLjE5LjIzMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTU0LjIyMy4xOS4yMzEiLCJpZCI6ImJmYjMyM2QzLTIzOWUtNGUxYi1iZmE4LTEzZjY4Mzg1OTMxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJhZGQiOiIzMS41Ny4xMDcuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2NjYjU1ODEtNDk2MC00OTdkLWY2MGMtOWNjMTc4NmM0NjQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjIxNyIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+kqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -67,8 +63,6 @@ vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 wireguard://0IFfCWbgnB1R5ZkAqhMOKliIlkoBuWdmRMma63iunEQ%3D@188.114.96.41:987?address=172.16.0.2%2F32&reserved=81%2C192%2C147&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-11 10:01
 
 wireguard://6C%2FKTi%2FaQl3yIbfhXT7T%2FG5tZ7%2BueLihUcY1lcnUxEI%3D@188.114.97.250:943?address=172.16.0.2%2F32&reserved=94%2C133%2C80&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-09 10:00
-
-wireguard://6GylUxXCqqnaRCuHtSA75REPCynVuAwJ0NDURPnqP10%3D@188.114.98.92:880?address=172.16.0.2%2F32&reserved=193%2C88%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-07 18:04
 
 wireguard://GED9kTHaF4R3t6IhibG2hznqm39ljPncxwafiaRAlX4%3D@188.114.99.248:946?address=172.16.0.2%2F32&reserved=237%2C9%2C232&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-09 21:00
 
@@ -91,6 +85,8 @@ wireguard://oFjzNUoytDaCVy2EoK7qpgfPfB32Vff0Uvpd%2BaAeGHk%3D@188.114.97.46:942?a
 wireguard://oM71ymcG7gMXGDLkQsrFt4cHVGOOOnFcdMuF%2B3Tt5WM%3D@188.114.99.152:928?address=172.16.0.2%2F32&reserved=231%2C55%2C165&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-11 18:01
 
 wireguard://sD19q3T71vqKftYyhbt0niZbXLoXkuM3DEVzFfD3Rkw%3D@188.114.99.184:903?address=172.16.0.2%2F32&reserved=174%2C40%2C195&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-12 10:01
+
+wireguard://wO7aFN3zCm2QVPE142IQySdx18EiJyLBeEm3mwh6XFs%3D@188.114.97.13:1018?address=172.16.0.2%2F32&reserved=2%2C171%2C247&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-12 18:02
 
 wireguard://yJYst0hRv%2BhHVV2Y3EHT3Qb31GjtIGjrCcvP4No5el4%3D@188.114.99.193:1002?address=172.16.0.2%2F32&reserved=61%2C122%2C80&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-08-10 10:00
 
