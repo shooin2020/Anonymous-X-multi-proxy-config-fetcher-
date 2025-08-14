@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-08-14T05:28:23.572152",
+  "timestamp": "2025-08-14T06:41:04.450095",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.56,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.16,
-        "last_success": "2025-08-14T05:28:10.262068"
+        "overall_score": 82.85,
+        "last_success": "2025-08-14T06:40:51.182571"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 15,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.58,
-        "last_success": "2025-08-14T05:28:22.777873"
+        "overall_score": 97.55,
+        "last_success": "2025-08-14T06:41:03.750849"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.01,
-        "last_success": "2025-08-14T05:28:23.355744"
+        "overall_score": 93.94,
+        "last_success": "2025-08-14T06:41:04.310593"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.68,
-        "last_success": "2025-08-14T05:28:23.570309"
+        "overall_score": 99.8,
+        "last_success": "2025-08-14T06:41:04.448573"
       }
     }
   ]
