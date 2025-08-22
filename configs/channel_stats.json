@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-08-22T18:36:06.023548",
+  "timestamp": "2025-08-22T19:21:07.375876",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 37,
-        "valid_configs": 28,
-        "unique_configs": 27,
-        "avg_response_time": 0.41,
+        "total_configs": 45,
+        "valid_configs": 29,
+        "unique_configs": 28,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.41,
-        "last_success": "2025-08-22T18:35:43.583449"
+        "overall_score": 89.72,
+        "last_success": "2025-08-22T19:20:45.159074"
       }
     },
     {
@@ -40,7 +40,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 88.54,
-        "last_success": "2025-08-22T18:35:55.478049"
+        "last_success": "2025-08-22T19:20:56.884615"
       }
     },
     {
@@ -54,20 +54,20 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 94.23,
-        "last_success": "2025-08-22T18:35:55.849855"
+        "last_success": "2025-08-22T19:20:57.252202"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 2,
-        "unique_configs": 2,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     }
