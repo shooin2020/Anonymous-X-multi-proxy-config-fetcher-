@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-25T22:25:27.943142",
+  "timestamp": "2025-08-25T23:24:32.102532",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -7,12 +7,12 @@
       "metrics": {
         "total_configs": 28,
         "valid_configs": 19,
-        "unique_configs": 19,
-        "avg_response_time": 0.58,
+        "unique_configs": 18,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.1,
-        "last_success": "2025-08-25T22:25:14.631997"
+        "overall_score": 89.74,
+        "last_success": "2025-08-25T23:24:19.418451"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.52,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.85,
-        "last_success": "2025-08-25T22:25:27.233019"
+        "overall_score": 91.5,
+        "last_success": "2025-08-25T23:24:31.531136"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.27,
-        "last_success": "2025-08-25T22:25:27.791959"
+        "overall_score": 96.42,
+        "last_success": "2025-08-25T23:24:31.989970"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.78,
-        "last_success": "2025-08-25T22:25:27.941618"
+        "overall_score": 99.84,
+        "last_success": "2025-08-25T23:24:32.100577"
       }
     }
   ]
