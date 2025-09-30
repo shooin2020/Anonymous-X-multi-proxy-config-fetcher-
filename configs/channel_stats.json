@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-09-30T17:22:33.290527",
+  "timestamp": "2025-09-30T18:33:49.439292",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.43,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.61,
-        "last_success": "2025-09-30T17:22:20.638245"
+        "overall_score": 86.64,
+        "last_success": "2025-09-30T18:33:36.061034"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.86,
-        "last_success": "2025-09-30T17:22:32.730604"
+        "overall_score": 97.64,
+        "last_success": "2025-09-30T18:33:48.645104"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.8,
-        "last_success": "2025-09-30T17:22:33.187091"
+        "overall_score": 96.13,
+        "last_success": "2025-09-30T18:33:49.296057"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-09-30T17:22:33.289060"
+        "overall_score": 99.79,
+        "last_success": "2025-09-30T18:33:49.437532"
       }
     }
   ]
