@@ -1,6 +1,6 @@
-trojan://telegram-id-privatevpns@13.37.71.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.188.109.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@15.188.131.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.198.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -52,6 +52,8 @@ wireguard://UJO9o8kNvFfQKynKv4ta8Xe18%2FyIwRrwHWx4f%2Bsqil0%3D@162.159.192.1:500
 
 wireguard://UJlTsmQaIAL9pE1QlPmBI%2BggIqpJ%2BnahVydEXY8li0s%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=23%2C177%2C7&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-16 18:03
 
+wireguard://eC4xoNXuRU9thKGT2Ev2QYKLcSs%2FUktmLa8SulsCvEw%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=20%2C255%2C143&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-19 21:00
+
 wireguard://eP4YJd8u6ScFDSkaUo1aoZJf80kNhPSAozd8zGwfCXc%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=98%2C153%2C112&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-17 18:04
 
 wireguard://kAGvG%2Fw%2FWHh2dqaNI7Vgmj36F3CYTGO7U8rbfDhsqE8%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=113%2C46%2C126&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-18 21:04
@@ -59,6 +61,4 @@ wireguard://kAGvG%2Fw%2FWHh2dqaNI7Vgmj36F3CYTGO7U8rbfDhsqE8%3D@162.159.192.1:240
 wireguard://qFltyDcgD3leuIFwe%2B%2Fx%2Fxka%2BcYC4fRPtFjejTAM0lA%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=124%2C125%2C102&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-16 10:04
 
 wireguard://uGBKSMkw2CD%2FPJFCiSDpTWwYlodM5AFPdlQ4D38qLn8%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=188%2C170%2C63&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-18 10:04
-
-wireguard://yLFsZuIAa9vuoFYHWnh3zntE4HLj948cNsUSRdYZrnE%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=88%2C68%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-10-14 21:04
 
