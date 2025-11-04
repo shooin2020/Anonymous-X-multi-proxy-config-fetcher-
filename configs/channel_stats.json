@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T11:23:58.815349",
+  "timestamp": "2025-11-04T12:59:01.273917",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.29,
-        "last_success": "2025-11-04T11:23:46.034590"
+        "overall_score": 84.28,
+        "last_success": "2025-11-04T12:58:48.769718"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.43,
+        "total_configs": 18,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.35,
-        "last_success": "2025-11-04T11:23:58.246824"
+        "overall_score": 95.26,
+        "last_success": "2025-11-04T12:59:00.771149"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.3,
-        "last_success": "2025-11-04T11:23:58.740621"
+        "overall_score": 99.42,
+        "last_success": "2025-11-04T12:59:01.179099"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.89,
-        "last_success": "2025-11-04T11:23:58.813514"
+        "overall_score": 99.86,
+        "last_success": "2025-11-04T12:59:01.272487"
       }
     }
   ]
