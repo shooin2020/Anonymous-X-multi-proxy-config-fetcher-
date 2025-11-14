@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T22:26:00.331223",
+  "timestamp": "2025-11-14T23:24:21.893455",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.92,
-        "last_success": "2025-11-14T22:25:47.729793"
+        "overall_score": 86.58,
+        "last_success": "2025-11-14T23:24:08.860503"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 13,
-        "avg_response_time": 0.38,
+        "total_configs": 16,
+        "valid_configs": 16,
+        "unique_configs": 15,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.64,
-        "last_success": "2025-11-14T22:25:59.825837"
+        "overall_score": 97.71,
+        "last_success": "2025-11-14T23:24:21.269029"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.11,
-        "last_success": "2025-11-14T22:26:00.274000"
+        "overall_score": 94.02,
+        "last_success": "2025-11-14T23:24:21.776243"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.92,
-        "last_success": "2025-11-14T22:26:00.329901"
+        "overall_score": 99.83,
+        "last_success": "2025-11-14T23:24:21.891828"
       }
     }
   ]
