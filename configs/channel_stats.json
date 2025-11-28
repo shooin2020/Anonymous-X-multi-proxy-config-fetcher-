@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T19:21:26.710509",
+  "timestamp": "2025-11-28T20:29:17.262015",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.61,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.58,
-        "last_success": "2025-11-28T19:21:13.226578"
+        "overall_score": 81.87,
+        "last_success": "2025-11-28T20:29:04.868875"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "total_configs": 14,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.51,
-        "last_success": "2025-11-28T19:21:25.912264"
+        "overall_score": 99.45,
+        "last_success": "2025-11-28T20:29:16.803781"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.9,
-        "last_success": "2025-11-28T19:21:26.559469"
+        "overall_score": 95.29,
+        "last_success": "2025-11-28T20:29:17.194985"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.78,
-        "last_success": "2025-11-28T19:21:26.708520"
+        "overall_score": 99.9,
+        "last_success": "2025-11-28T20:29:17.260612"
       }
     }
   ]
