@@ -2,7 +2,7 @@ trojan://telegram-id-privatevpns@13.37.144.126:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.39.212.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.39.27.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.34.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.7.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -12,13 +12,9 @@ trojan://telegram-id-privatevpns@15.236.214.251:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@3.121.158.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.123.83.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.64.121.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.47.134.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@51.45.54.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.58.103.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -26,9 +22,11 @@ trojan://telegram-id-privatevpns@63.176.229.73:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@63.180.105.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@63.181.59.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@63.180.131.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#ConfigV2RayNG
+trojan://telegram-id-privatevpns@63.180.136.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.181.59.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
 
@@ -44,27 +42,7 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45
 
 vmess://eyJhZGQiOiI3NC4xMTcuMTk2LjIzMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJlMWNjMjZiMy1kZjBiLTQ3N2ItYWZiMC01MzY1OWEyNWU5NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MzcxNzEsInBzIjoiRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://eyJhZGQiOiIxMDcuMTY3LjMxLjE5NCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy42NjcyODUzMy54eXoiLCJpZCI6IjE3ZmEzYzc0LWYzYzItNGIzNy1iZjUzLWM2NjQwZDY5ODJlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzEyMDMwNjE4MjUyNSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMtMTA3LjE2Ny4zMS4xOTQtNDcyNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuNjY3Mjg1MzMueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMjkuMTUxLjE2NC4xNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTMwZjg1ODgtMjU1NS00OGI4LWMzNTQtYzhlNjNmNTcyMzJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1NTYwMCIsInBzIjoi8J+Hv/Cfh6ZaQS0xMjkuMTUxLjE2NC4xNTItMTg1MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJGcmVlaXJhbndlYi1GcmFuY2Xwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vmess://eyJhZGQiOiIxMzguMi40Mi4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTNjN2NiNjMtYmMzOS00NjBiLWU0MWItY2E2NTM2M2UzZTgzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoi8J+Hr/Cfh7VKUC0xMzguMi40Mi4yNDEtMTA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxODIuMTYuMS4xOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDBhMWRhMTQtZDU1Zi01Zjc1LWUzNDYtNzliOTg1ZTFhNzIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL29wdC92aWRlby9pbWFnZXMiLCJwb3J0IjoiODAiLCJwcyI6IvCfh63wn4ewSEstMTgyLjE2LjEuMTk0LTExNTQ3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxOTIuMy4xNTAuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJVUy0xNTAtMjMzLnNob3B0dW5uZWwubGl2ZSIsImlkIjoiYTZhMzdlMDQtNWU4MS00NGM5LWJlNTMtYmFhM2ZmNDZlYjhiIiwibmV0Ijoid3MiLCJwYXRoIjoiLzhjZGE0OGIzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfh7rwn4e4VVMtMTkyLjMuMTUwLjIzMy0wMTQ3Iiwic2N5IjoiYXV0byIsInNuaSI6IlVTLTE1MC0yMzMuc2hvcHR1bm5lbC5saXZlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJkZTMubm9tbC5hcHAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmRkY2YxMmQtNTJmYS00ZTA5LWI0ZjEtYzUyZDVjYmVlNjliIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hheDAzZXUiLCJwb3J0IjoiODA4MCIsInBzIjoiR2VybWFueTA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJoYXhldTUuOXguY3giLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmRkY2YxMmQtNTJmYS00ZTA5LWI0ZjEtYzUyZDVjYmVlNjliIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIxc2V1NDY3OGhheCIsInBvcnQiOiI0NDMiLCJwcyI6IkZpbmxhbmQiLCJzY3kiOiJhdXRvIiwic25pIjoiaGF4ZXU1Ljl4LmN4IiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJob25nYm96ZW5nLm1sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJob25nYm96ZW5nLm1sIiwiaWQiOiI4NjBiNTQzZi01MDM5LTQ3M2ItOTZlYy00NDk0YWViZTQ0MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHVleGkiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ev8J+HtUpQLTE0MS4xNDcuMTkwLjM0LTQ3MzgiLCJzY3kiOiJhdXRvIiwic25pIjoiaG9uZ2JvemVuZy5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJzZWEyMS5uYjEuZnIiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlYTIxLm5iMS5mciIsImlkIjoiY2I3MDAxYzctZTQ5NS00MWFjLWI5NDItZjI1ZjYwNTIzNDE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2NsaWVudGFyZWEiLCJwb3J0IjoiNjQ0NDMiLCJwcyI6IvCfh7rwn4e4VVMtMTAzLjE0OS4xNDUuMTE1LTYzNTIiLCJzY3kiOiJhdXRvIiwic25pIjoic2VhMjEubmIxLmZyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJzZy43MTgzOTgueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJkZGNmMTJkLTUyZmEtNGUwOS1iNGYxLWM1MmQ1Y2JlZTY5YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc3ZjdXMiLCJwb3J0IjoiODQ0MyIsInBzIjoiU2luZ2FycG9yZTAxIiwic2N5IjoiYXV0byIsInNuaSI6InNnLjcxODM5OC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 wireguard://0Eq2b6JO7mYewk2gO%2FuuTMEXbWGRQwrPE5C7FSNPSXA%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=41%2C49%2C105&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-03 18:02
 
