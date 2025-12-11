@@ -2,6 +2,8 @@ trojan://telegram-id-privatevpns@13.37.88.6:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-privatevpns@13.39.1.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@15.237.153.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.153.199.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -15,8 +17,6 @@ trojan://telegram-id-privatevpns@18.192.74.10:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.120.137.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.156.173.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.157.53.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.224.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -62,8 +62,6 @@ wireguard://EK0IL0VZPLC9TyyDD40PFlsf2rYMkUq%2BnunbX88%2BtlQ%3D@162.159.192.5:450
 
 wireguard://GLJKyrzRzqDCy%2Bx%2BH3x4gVd8bHqaTo6ebRhTMaEFfnE%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=70%2C91%2C69&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-07 21:04
 
-wireguard://IJwoKgOL%2B8zLEkTYpy%2FDkyj7WT7zDiTkfIe97aB7jEQ%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=25%2C74%2C183&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-04 21:03
-
 wireguard://INVuubM7BO9Y88%2BXlbhe%2FM4v3HSTG7nxb7Eu5SFIB2k%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=203%2C161%2C138&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-09 10:00
 
 wireguard://MEwQm5OIAGtPgA3n6bZurc8PNv6WpgB0rtXKOi5K8Xo%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=244%2C196%2C61&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-07 10:04
@@ -79,6 +77,8 @@ wireguard://iClGkjlj2WkZaQ4SC323j9%2FCQy%2Fkw1aQb9c0aSCweW0%3D@162.159.192.6:240
 wireguard://oCgUrERRp9WbzChr3w3%2FC8ExNtI5wbj9SovZdCP7MUA%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=194%2C0%2C37&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-08 21:00
 
 wireguard://uAhyKuc5PFY6qNtIpknhREPQVvBi2EU2hAaanUeJsWw%3D@162.159.192.7:500?address=172.16.0.2%2F32&reserved=132%2C154%2C26&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-06 21:04
+
+wireguard://uBkaHGVJd1qAW9TIwcnbLylggFQCFR10Tdhq%2FlNYN3I%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=136%2C154%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-09 21:00
 
 wireguard://uFWHEizYplViKG6q1arv29ArQ4U3HJTzdp1%2F2WY210M%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=129%2C212%2C183&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-08 10:04
 
