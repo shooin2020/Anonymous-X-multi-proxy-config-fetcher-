@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-11T19:26:30.144704",
+  "timestamp": "2025-12-11T20:31:18.155506",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 40,
+        "total_configs": 41,
         "valid_configs": 22,
         "unique_configs": 22,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.74,
-        "last_success": "2025-12-11T19:26:16.333221"
+        "overall_score": 87.81,
+        "last_success": "2025-12-11T20:31:05.562271"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 14,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.14,
-        "last_success": "2025-12-11T19:26:29.294179"
+        "overall_score": 90.5,
+        "last_success": "2025-12-11T20:31:17.660472"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.8,
-        "last_success": "2025-12-11T19:26:29.941560"
+        "overall_score": 94.17,
+        "last_success": "2025-12-11T20:31:18.065574"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2025-12-11T19:26:30.143208"
+        "overall_score": 99.87,
+        "last_success": "2025-12-11T20:31:18.153492"
       }
     }
   ]
