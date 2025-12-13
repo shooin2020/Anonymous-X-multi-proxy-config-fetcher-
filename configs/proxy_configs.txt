@@ -1,14 +1,18 @@
 trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0227.wlfvip.shop&type=ws&sni=cdir-0227.wlfvip.shop#%40ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@13.38.168.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.150.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.38.239.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.224.2.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@15.237.68.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.120.201.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.126.180.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@3.65.168.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@3.71.208.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.180.72.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -20,13 +24,9 @@ trojan://telegram-id-privatevpns@51.44.139.53:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@52.28.28.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.47.108.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@52.57.200.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.165.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@63.180.137.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
 
@@ -46,8 +46,6 @@ vmess://eyJhZGQiOiI4LjIxOC4zNi4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI4MC45Mi4yMDQuMTA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJHb29nbGUuY29tIiwiaWQiOiIzMjg4YTgwNS0wYWY3LTQ2ZTEtZTM2Yi1lYjkxNGY1NDEyZWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzIzMSIsInBzIjoi8J+VikBDb25maWdWMlJheU5H8J+Vitin2q/ZhyDZgti32Lkg2LTYryDYqNuM2Kcg2KfbjNmG2KzYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0Lm1lL3YyTGluZSIsImlkIjoiNWE4OTM4NmEtODI3Yi00ZjU0LTg3NzgtMmYxYjUxMjJjNmVmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzOTY3NCIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vmess://eyJhZGQiOiIxMTYuMjAzLjEuMTk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibWkuaXIiLCJpZCI6IjE4NDJiNjk2LWZiNzktNGQ3NC05NGI4LThmYWY1MzdkN2VjYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxMzQuMTk1LjIxMS4xNzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTllMjBlNDItYjA2ZS00YzdiLWI1NGItYzc3OTQxOGQzNzNhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDU1MSIsInBzIjoi8J+HuvCfh7hVUy0xMzQuMTk1LjIxMS4xNzQtMTE5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -57,6 +55,8 @@ vmess://eyJhZGQiOiIxNDMuMTk4LjIxOS4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vmess://eyJhZGQiOiIxNTkuNjkuMjQ4LjE5MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNjcuMjM1LjIwMi41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMTI5Mjk1OTItYTdiZC00MWViLWFiNGQtZDgwNGY3NmM0ZmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjM2MDM5LCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJhZGQiOiIxODguMTY1LjE3MC44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NjBhODYyYS0yNzk4LTQwMzctODUxMy1iMDYwZTMxMGU3ZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4er8J+Ht0ZSLTE4OC4xNjUuMTcwLjgzLTAxODgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
