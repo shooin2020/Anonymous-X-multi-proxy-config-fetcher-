@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T21:27:38.390322",
+  "timestamp": "2025-12-15T22:28:28.615472",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.55,
-        "last_success": "2025-12-15T21:27:25.342708"
+        "overall_score": 80.4,
+        "last_success": "2025-12-15T22:28:15.889522"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.48,
+        "total_configs": 16,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.28,
-        "last_success": "2025-12-15T21:27:37.747376"
+        "overall_score": 97.8,
+        "last_success": "2025-12-15T22:28:28.066326"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.1,
-        "last_success": "2025-12-15T21:27:38.263819"
+        "overall_score": 95.2,
+        "last_success": "2025-12-15T22:28:28.512319"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.81,
-        "last_success": "2025-12-15T21:27:38.388797"
+        "overall_score": 99.85,
+        "last_success": "2025-12-15T22:28:28.613945"
       }
     }
   ]
