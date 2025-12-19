@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-19T05:30:15.972999",
+  "timestamp": "2025-12-19T06:42:09.997233",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 22,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.64,
+        "total_configs": 33,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.13,
-        "last_success": "2025-12-19T05:30:03.090647"
+        "overall_score": 87.75,
+        "last_success": "2025-12-19T06:41:57.003810"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 16,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.19,
-        "last_success": "2025-12-19T05:30:15.381211"
+        "overall_score": 96.16,
+        "last_success": "2025-12-19T06:42:09.336334"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.11,
-        "last_success": "2025-12-19T05:30:15.889465"
+        "overall_score": 94.08,
+        "last_success": "2025-12-19T06:42:09.802012"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.88,
-        "last_success": "2025-12-19T05:30:15.971569"
+        "overall_score": 99.71,
+        "last_success": "2025-12-19T06:42:09.995358"
       }
     }
   ]
