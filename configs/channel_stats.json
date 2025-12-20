@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-20T10:27:36.510818",
+  "timestamp": "2025-12-20T11:21:49.257242",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 47,
-        "valid_configs": 24,
-        "unique_configs": 24,
+        "total_configs": 31,
+        "valid_configs": 15,
+        "unique_configs": 15,
         "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.68,
-        "last_success": "2025-12-20T10:27:23.496262"
+        "overall_score": 86.02,
+        "last_success": "2025-12-20T11:21:35.279062"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 15,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.46,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.7,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.97,
-        "last_success": "2025-12-20T10:27:35.888721"
+        "overall_score": 98.95,
+        "last_success": "2025-12-20T11:21:48.410164"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.02,
-        "last_success": "2025-12-20T10:27:36.402682"
+        "overall_score": 93.75,
+        "last_success": "2025-12-20T11:21:49.104018"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.84,
-        "last_success": "2025-12-20T10:27:36.509491"
+        "overall_score": 99.78,
+        "last_success": "2025-12-20T11:21:49.255338"
       }
     }
   ]
