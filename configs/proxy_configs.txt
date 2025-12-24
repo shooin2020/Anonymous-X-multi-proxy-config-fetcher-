@@ -4,6 +4,8 @@ trojan://telegram-id-privatevpns@15.236.107.136:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@15.236.125.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.236.45.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@15.237.171.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.73.224.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -13,8 +15,6 @@ trojan://telegram-id-privatevpns@3.78.3.121:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@35.158.205.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.180.13.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.180.77.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.241.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -40,11 +40,9 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45Va3SCDF38lw3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GoZargah.VAlidBv7996.Ir#Gozargah%E2%AD%904
 
-vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4emQ0EtMTM0LjE5NS4xOTguMTQ3LTUwNDAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9KHl1ZG91NjY3Ny50b3Ag546J6LGG5YWN6LS56IqC54K5KSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjE/ZWQ9MjU2MCIsImhvc3QiOiJBWkVSQi5ORVQiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJveHlfa2FmZWXwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vmess://eyJhZGQiOiI0NS4xNDIuMTIwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiY2MudjJqZXkuZnVuIiwiaWQiOiJlZGVkZjk4Yy05MzY0LTRhNGItYTcxOC02Y2Q0ZDE4M2UzNGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkBtYXNtb29taWF0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI5NS44MS4xMTQuMjUyIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6Ijk2MzEwOTZkLTMwMzItNDk0Mi05NDQ2LWJkZjEyNjY1NjgyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0Ijo0NDc0OSwicHMiOiJNb3Njb3ctR2V0QUZyZWVOb2RlIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -52,7 +50,13 @@ vmess://eyJhZGQiOiI5NS44MS4xMTQuMjUyIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoi
 
 vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiI0MS10ZWxlZ3JhbS1pZC0tLVYyYm94LXYyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RlbGVncmFtLWlkLS0tdjJib3gtdjIvd3d3LnNwZWVkdGVzdC5uZXQ6NDQzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Xwn4exdGVsZWdyYW0taWQgOiBAdjJyYXluZ19odWIiLCJzY3kiOiJhdXRvIiwic25pIjoiei5sb29sb29sb29sb28uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vmess://eyJhZGQiOiIxODUuMTc0LjEzOC4zNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImNjLnYyamV5LmZ1biIsImlkIjoiZWRlZGY5OGMtOTM2NC00YTRiLWE3MTgtNmNkNGQxODNlMzRjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgyIiwicHMiOiJAZXlnb29veiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxODUuMjIxLjE2MC4xMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJjYy52MmpleS5mdW4iLCJpZCI6ImVkZWRmOThjLTkzNjQtNGE0Yi1hNzE4LTZjZDRkMTgzZTM0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiQGdpZ2hleXJhdGEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiM2I0NzU5MzQtY2IyYS00ZDk2LWIyNjAtNWU1MGNjYTVkNDMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjM4NDM3LCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vmess://eyJhZGQiOiIxODguNDIuODkuMTE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiY2MudjJqZXkuZnVuIiwiaWQiOiJlZGVkZjk4Yy05MzY0LTRhNGItYTcxOC02Y2Q0ZDE4M2UzNGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkB0b2Z1YmFydG9leWNoYXJraCBnYXJkb29uIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQ1NzkiLCJwcyI6IkFsbC0tQFYycmF5QWxwaGEtNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==wireguard Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -66,9 +70,9 @@ wireguard://8Oe3xXzbiE6lGnPiIP6w7LXWwF%2FwhVeN6fCw1i6rOHE%3D@162.159.192.4:4500?
 
 wireguard://AATOdI78pm0enN8BEXxCpl%2FKYsPHQ4K9qZnu9VWB03k%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=79%2C167%2C236&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-20 21:01
 
-wireguard://ABUr%2FytGwnTyiZJVIUkihOzNKvE5ZH42YTNg6rIM8m4%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=22%2C26%2C90&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-18 18:00
-
 wireguard://ABk55iSyWiWGbEA23CGdj7L9lgYtuWvyFffmWQUI%2FWQ%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=225%2C2%2C178&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-18 21:00
+
+wireguard://AO9nEKDniY9NRtH%2FX4ZG3Cn82Rs4PiOMA%2B6rqMnrXnQ%3D@162.159.192.5:4500?address=172.16.0.2%2F32&reserved=219%2C48%2C191&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-23 18:02
 
 wireguard://ELEN0Ub1p3tv04iXwwIs1SAr0nhSqkP8aSK3sMCBSEA%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=231%2C131%2C215&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-21 10:01
 
