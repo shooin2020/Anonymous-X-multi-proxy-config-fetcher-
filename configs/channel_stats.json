@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-25T16:34:53.549825",
+  "timestamp": "2025-12-25T17:25:17.609049",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 31,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.35,
-        "last_success": "2025-12-25T16:34:40.627432"
+        "overall_score": 86.37,
+        "last_success": "2025-12-25T17:25:04.782559"
       }
     },
     {
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.5,
+        "total_configs": 12,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.25,
-        "last_success": "2025-12-25T16:34:53.010763"
+        "overall_score": 99.36,
+        "last_success": "2025-12-25T17:25:17.074010"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.37,
-        "last_success": "2025-12-25T16:34:53.466311"
+        "overall_score": 99.36,
+        "last_success": "2025-12-25T17:25:17.535350"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.88,
-        "last_success": "2025-12-25T16:34:53.548332"
+        "overall_score": 99.89,
+        "last_success": "2025-12-25T17:25:17.607664"
       }
     }
   ]
