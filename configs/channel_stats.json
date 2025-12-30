@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T20:38:15.278121",
+  "timestamp": "2025-12-30T21:34:14.667256",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -68,7 +68,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.87,
-        "last_success": "2025-12-30T20:38:15.276728"
+        "last_success": "2025-12-30T21:34:14.665707"
       }
     }
   ]
