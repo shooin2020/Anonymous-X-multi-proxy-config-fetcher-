@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-03T23:26:22.479201",
+  "timestamp": "2026-01-04T02:33:21.120251",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 35,
-        "valid_configs": 20,
-        "unique_configs": 19,
-        "avg_response_time": 0.4,
+        "total_configs": 37,
+        "valid_configs": 21,
+        "unique_configs": 21,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.44,
-        "last_success": "2026-01-03T23:26:09.872784"
+        "overall_score": 88.57,
+        "last_success": "2026-01-04T02:33:08.564567"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 10,
-        "unique_configs": 10,
+        "valid_configs": 6,
+        "unique_configs": 6,
         "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.05,
-        "last_success": "2026-01-03T23:26:21.889910"
+        "overall_score": 83.8,
+        "last_success": "2026-01-04T02:33:20.549322"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.32,
-        "last_success": "2026-01-03T23:26:22.382234"
+        "overall_score": 99.31,
+        "last_success": "2026-01-04T02:33:21.048419"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.86,
-        "last_success": "2026-01-03T23:26:22.477436"
+        "overall_score": 99.9,
+        "last_success": "2026-01-04T02:33:21.118589"
       }
     }
   ]
