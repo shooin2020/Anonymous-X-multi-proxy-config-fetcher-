@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-18T23:26:55.553242",
+  "timestamp": "2026-01-19T02:28:56.387243",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 32,
+        "total_configs": 31,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.46,
-        "last_success": "2026-01-18T23:26:42.181573"
+        "overall_score": 87.18,
+        "last_success": "2026-01-19T02:28:43.784899"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.48,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.77,
-        "last_success": "2026-01-18T23:26:54.834107"
+        "overall_score": 93.15,
+        "last_success": "2026-01-19T02:28:55.859603"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.04,
-        "last_success": "2026-01-18T23:26:55.332466"
+        "overall_score": 93.18,
+        "last_success": "2026-01-19T02:28:56.271730"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.67,
-        "last_success": "2026-01-18T23:26:55.551601"
+        "overall_score": 99.83,
+        "last_success": "2026-01-19T02:28:56.385635"
       }
     }
   ]
