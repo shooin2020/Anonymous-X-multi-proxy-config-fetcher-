@@ -28,6 +28,8 @@ trojan://telegram-id-privatevpns@51.44.34.191:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@63.182.140.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.32.47:443?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#Gozargah%E2%AD%902
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:8443?path=%2FHl5ZA0QBitIoHN9C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAh.vALidBv7996.Ir#Gozargah%E2%AD%905
@@ -39,6 +41,12 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4on
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6kwamNEbtFNK%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAH.VaLIDbV7996.Ir#Gozargah%E2%AD%901
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45Va3SCDF38lw3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GoZargah.VAlidBv7996.Ir#Gozargah%E2%AD%904
+
+vless://e258977b-e413-4718-a3af-02d75492c349@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=ww23.sgxaniu.qzz.io&type=ws&sni=ww23.sgxaniu.qzz.io#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
+vless://ea3f180c-8141-4e03-b11c-4d542767a417@104.18.32.47:443?path=%2FeyJqdW5rIjoidmo5SG5sY2oyMGNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&encryption=none&host=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev&type=ws&sni=e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
+vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTkwLjE5MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMTAuY2ZjZG4xLnh5eiIsCiAgICAiaWQiOiAiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0EyREpPUEZUIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0yMDMuMzAuMTkwLjE5Mi0wMDc4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEvCsl8yM3wyLjhNQi9zfDAlfEdQVOKBunxZVHxYfEhpc3Rvcnl8W+WOn+eUn3zkvY/lroVdIiwiYWRkIjoiMDEwZWNlNTYtdDZyNXMwLXRoZDBoMS0xcno1cy5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDBlMDg0ZDYtMDMxNi0xMWYwLTkwZTItZjIzYzkxM2M4ZDJiIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMDEwZWNlNTYtdDZyNXMwLXRoZDBoMS0xcno1cy5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
