@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-29T16:53:26.201445",
+  "timestamp": "2026-01-29T17:45:03.996172",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 29,
-        "valid_configs": 16,
-        "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "valid_configs": 15,
+        "unique_configs": 14,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.64,
-        "last_success": "2026-01-29T16:53:14.573401"
+        "overall_score": 85.23,
+        "last_success": "2026-01-29T17:44:51.754448"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.74,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.82,
-        "last_success": "2026-01-29T16:53:15.239605"
+        "overall_score": 92.64,
+        "last_success": "2026-01-29T17:44:52.536775"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.71,
-        "last_success": "2026-01-29T16:53:15.632464"
+        "overall_score": 90.45,
+        "last_success": "2026-01-29T17:44:53.097484"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.5,
-        "last_success": "2026-01-29T16:53:16.031714"
+        "overall_score": 94.95,
+        "last_success": "2026-01-29T17:44:53.716476"
       }
     },
     {
