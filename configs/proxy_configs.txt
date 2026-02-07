@@ -2,8 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%
 
 trojan://telegram-id-privatevpns@13.37.19.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.38.170.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@13.39.246.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.21.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -14,8 +12,6 @@ trojan://telegram-id-privatevpns@18.158.0.56:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@3.127.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.68.152.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.76.176.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.156.167.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -24,9 +20,11 @@ trojan://telegram-id-privatevpns@35.156.177.3:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@35.181.252.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.181.255.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@35.181.33.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.181.75.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.182.112.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.182.232.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -48,9 +46,21 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:8443?path=%2FDZ45Va3SCDF38lw3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GoZargah.VAlidBv7996.Ir#Gozargah%E2%AD%904
 
+vless://f4f18ac0-cfc3-427a-af8c-a847bc516cca@arzdigital.com:80?path=%2Fgraphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#ConfigV2RayNG
+
+vless://f4f18ac0-cfc3-427a-af8c-a847bc516cca@opizo.me:80?path=%2Fgraphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#ConfigV2RayNG
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40NS4yNTMiLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWEuZmxoYS5ydSIsICJ0bHMiOiAiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+vmess://eyJhZGQiOiJ2anAxLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2anAxLjBiYWQuY29tIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6/wn4e1SlAtMTM5LjE2Mi43My43MC0wNTE5Iiwic2N5IjoiYXV0byIsInNuaSI6InZqcDEuMGJhZC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJ2anAyLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2anAyLjBiYWQuY29tIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6/wn4e1SlAtMTM5LjE2Mi45MS4xMDYtMTEzNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2anAyLjBiYWQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJ2dWsxLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2dWsxLjBiYWQuY29tIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6zwn4enR0ItMTcyLjEwNS4xMzIuNzUtNTUxNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2dWsxLjBiYWQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+vmess://eyJhZGQiOiJzaGVjYW5tY2kuc3ltb2RpLm1sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZXN0bWNpLnN5bW9kaS5tbCIsImlkIjoiNzg1MTJjOTEtMmJlYS00YWFhLWQ5NWEtMjg5ZDEyZTFhZmZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fac25IYWljQiIsInBvcnQiOiI4ODgwIiwicHMiOiJUZWxlZ3JhbSBDaGFubmVsIDogQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 wireguard://%2BAnzZ3hSqc64zb5d1kGZ%2BiseNR7VljPAcJ9xTW%2Bt32Y%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=248%2C253%2C58&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-03 10:00
 
