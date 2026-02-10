@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-10T13:43:37.907493",
+  "timestamp": "2026-02-10T15:08:15.493181",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.72,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.16,
-        "last_success": "2026-02-10T13:43:24.272959"
+        "overall_score": 81.75,
+        "last_success": "2026-02-10T15:08:03.197374"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.65,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.86,
-        "last_success": "2026-02-10T13:43:37.062268"
+        "overall_score": 95.25,
+        "last_success": "2026-02-10T15:08:15.030272"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.43,
-        "last_success": "2026-02-10T13:43:37.769908"
+        "overall_score": 96.49,
+        "last_success": "2026-02-10T15:08:15.435148"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.8,
-        "last_success": "2026-02-10T13:43:37.905674"
+        "overall_score": 99.92,
+        "last_success": "2026-02-10T15:08:15.491628"
       }
     }
   ]
