@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T16:09:19.202622",
+  "timestamp": "2026-02-24T18:02:26.073927",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,19 +8,19 @@
         "total_configs": 25,
         "valid_configs": 7,
         "unique_configs": 5,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.16,
-        "last_success": "2026-02-24T16:09:06.648529"
+        "last_success": "2026-02-24T18:02:13.591203"
       }
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": true,
       "metrics": {
-        "total_configs": 45,
-        "valid_configs": 24,
+        "total_configs": 54,
+        "valid_configs": 30,
         "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.22,
-        "last_success": "2026-02-24T16:09:18.620206"
+        "overall_score": 95.25,
+        "last_success": "2026-02-24T18:02:25.502886"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.8,
-        "last_success": "2026-02-24T16:09:19.082944"
+        "overall_score": 97.81,
+        "last_success": "2026-02-24T18:02:25.954009"
       }
     },
     {
@@ -67,8 +67,8 @@
         "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.83,
-        "last_success": "2026-02-24T16:09:19.200435"
+        "overall_score": 99.82,
+        "last_success": "2026-02-24T18:02:26.072455"
       }
     }
   ]
