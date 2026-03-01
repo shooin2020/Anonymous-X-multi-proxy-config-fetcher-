@@ -12,8 +12,6 @@ trojan://telegram-id-privatevpns@15.224.7.21:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@18.153.205.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -23,6 +21,8 @@ trojan://telegram-id-privatevpns@51.44.27.45:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@51.45.44.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.29.103.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@52.29.35.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.57.181.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -35,8 +35,6 @@ vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?path=%2F%3Fed
 vless://fc48fb05-f513-486d-9577-80d225bc1169@CHAtgPT.coM:443?path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://fc48fb05-f513-486d-9577-80d225bc1169@www.speedtest.net:443?path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAidHVyazEubmV0Lm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tLiIsICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwgInRscyI6ICIiLCAic25pIjogIlRNX0FaQVJCQVlKQUIxLm5ldy45OS53b3JrZXJzLmRldiIsICJ0ZXN0X25hbWUiOiAiMTAifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzAgMjQ3LjNNQi9zIiwiYWRkIjoiMTcyLjIzMy4yMjkuOTEiLCJwb3J0IjoiMTQxMDIiLCJpZCI6IjI3YmE4N2ZjLTU4M2YtNDc2My05MDYwLTgzY2YwYjkyNjRkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMwIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
