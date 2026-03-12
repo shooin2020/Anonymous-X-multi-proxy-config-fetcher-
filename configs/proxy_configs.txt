@@ -2,9 +2,9 @@ trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.36.29.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.37.140.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@13.38.214.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.68.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -27,8 +27,6 @@ trojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.183.93.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInBvcnQiOiA0NDMsICJpZCI6ICJmMjY3ZWFjMy1kZmI0LTQ1YmUtYTQ4MC03ZTE4NDdjYTA0YWIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogImF1dG8iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEBmcmVldjJyYXlzICMxIiwiYWRkIjoieGNmMDM3LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDk4NjMwMzctMDQ2My00NjE1LWU5NzItMzZiYTk2NjJkMWU5IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzcuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvZDk4NjMwMzciLCJob3N0IjoieGNmMDM3LmZhY2FpMjAyNC5jb20ifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -67,6 +65,8 @@ wireguard://kEU%2Fj2L8GQ01RGPNdoR8TTafqglyamCUTAJvAcfzGFk%3D@162.159.192.1:500?a
 wireguard://kHw%2F60wnTgk5nQLvovlBE3TP0EeUj5EAmmgIIiYtfH0%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=182%2C35%2C54&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 10:03
 
 wireguard://oDExiDatkgZrXKRJsDWsncBAxc3jt8SqsE9Xb8R3aEo%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=129%2C113%2C53&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 18:03
+
+wireguard://oFerwn70EneKaqtzQolzBOx7pcSZDMRa8ZyhAfMukXM%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=114%2C158%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 21:03
 
 wireguard://sEab8CdaDVJ3ZxQ5A%2B8tLsTjr%2B9e8V%2BszUCxf67Fe2E%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=79%2C194%2C195&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-08 18:01
 
