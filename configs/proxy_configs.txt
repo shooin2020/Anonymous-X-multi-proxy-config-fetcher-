@@ -14,11 +14,11 @@ trojan://telegram-id-privatevpns@15.188.35.16:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@15.224.41.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.236.174.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@18.193.206.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.123.240.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.181.222.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.57.221.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -62,6 +62,8 @@ wireguard://%2BMLyK68vcKWmIkfBKIj%2Fd%2Fxp%2BayDjByhWK9YP36vonA%3D@162.159.192.4
 
 wireguard://%2BPWmjMeSDP%2Bxx4UMeA5PgGUNiEzcQ%2Ftf6SyZ%2F1HEUmQ%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=175%2C182%2C237&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-14 21:04
 
+wireguard://CDyIdzaGJyoiVOAqvtHY2pTeLjiGxtF5vE%2F9e2KT02Y%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=81%2C156%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-16 21:00
+
 wireguard://CO3PlA6K2wXWulkULSJa9BIT1QRBDRiroQlI9mbmY2U%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=14%2C35%2C27&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-15 21:04
 
 wireguard://MBlfJV1%2FuFpa1DqchSA3%2Fut4zsmJo%2FK1fy237supg10%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=27%2C0%2C106&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-14 18:04
@@ -77,8 +79,6 @@ wireguard://YNCmVkVnE%2FCI6gMek0OLmuFltHQppMJDt5RUPiCqbEw%3D@162.159.192.5:4500?
 wireguard://cIg24V4GvphiKzfUHs88qK0mdPKEiV3ozFvcTXHFrGc%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=50%2C89%2C63&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-13 10:03
 
 wireguard://iMygIeT6JWhjHBydWF3k%2Fl11886121r8sn9fF5rUdGE%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=178%2C191%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-15 18:04
-
-wireguard://kHw%2F60wnTgk5nQLvovlBE3TP0EeUj5EAmmgIIiYtfH0%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=182%2C35%2C54&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 10:03
 
 wireguard://oDExiDatkgZrXKRJsDWsncBAxc3jt8SqsE9Xb8R3aEo%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=129%2C113%2C53&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 18:03
 
