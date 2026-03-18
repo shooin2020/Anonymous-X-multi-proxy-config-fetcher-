@@ -16,7 +16,7 @@ trojan://telegram-id-privatevpns@15.188.40.40:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@15.236.174.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@18.193.206.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -72,7 +72,7 @@ wireguard://WEugDG4h%2B4cp8BhkO3ReHgkS77jIWtGB46Ys15BtHWQ%3D@162.159.192.5:500?a
 
 wireguard://YBf4ZKIqLCE9NnfXq9yXt%2FoWKfFV7kM7%2Bpqde7cLN2Q%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=247%2C248%2C193&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-16 18:00
 
-wireguard://YNCmVkVnE%2FCI6gMek0OLmuFltHQppMJDt5RUPiCqbEw%3D@162.159.192.5:4500?address=172.16.0.2%2F32&reserved=234%2C100%2C246&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-14 10:04
+wireguard://aB1UWbqPrZAoP4wrWmFZqahqA7f4oqjq1bY8qJOTgEE%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=74%2C241%2C52&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-18 10:00
 
 wireguard://iMygIeT6JWhjHBydWF3k%2Fl11886121r8sn9fF5rUdGE%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=178%2C191%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-15 18:04
 
