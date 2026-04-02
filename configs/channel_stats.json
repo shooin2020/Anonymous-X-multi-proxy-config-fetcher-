@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T19:07:26.084859",
+  "timestamp": "2026-04-02T20:45:04.498466",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.38,
-        "last_success": "2026-04-02T19:07:03.405006"
+        "overall_score": 94.15,
+        "last_success": "2026-04-02T20:44:41.027921"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.11,
-        "last_success": "2026-04-02T19:07:15.366829"
+        "overall_score": 92.91,
+        "last_success": "2026-04-02T20:44:53.583569"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 10,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.64,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.32,
-        "last_success": "2026-04-02T19:07:15.854749"
+        "overall_score": 99.04,
+        "last_success": "2026-04-02T20:44:54.254412"
       }
     },
     {
