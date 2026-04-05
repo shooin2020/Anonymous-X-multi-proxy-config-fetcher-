@@ -58,8 +58,6 @@ vless://f46def27-0024-4c17-ad8e-b15d63577be8@snapp.ir:80?security=none&allowInse
 
 vless://fb098fc0-b41d-430d-9b92-49705687904e@shaparak.ultrrasound.com:19949?security=&encryption=none&host=telewebion.com&type=ws#canfingV2rayNG-425 Need a premium VPN config? Try @failvpn_bot
 
-vmess://eyJhZGQiOiIxNzguMTA0LjY3Ljg4IiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJpZCI6Ijk0NzY0NTAyLTM4N2ItNDVjOS1iYzIxLWI4ZGM3ODM2OTBhMyIsIm5ldCI6InRjcCIsInBvcnQiOjMzNDA0LCJwcyI6IlZQTm5vYm9keS00MzEiLCJzY3kiOiJhdXRvIiwic25pIjoiY2RuLnBjbW9kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ== Need a premium VPN config? Try @failvpn_bot
-
 wireguard://6FAcONbVPwDM1wce2D4EQprvdkfXDK1xdiPdZrCM6F8%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=104%2C75%2C255&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-03 18:02
 
 wireguard://IN47nDeN%2B1SwxNiImygewnet7LIMAv5GikreK2pER18%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=238%2C180%2C78&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-02 10:02
@@ -67,6 +65,8 @@ wireguard://IN47nDeN%2B1SwxNiImygewnet7LIMAv5GikreK2pER18%3D@162.159.192.6:4500?
 wireguard://MEZ2mIZcF6wNrWvtApcsByRqCIVoKnUpwxPA3W4HB2U%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=117%2C54%2C37&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-04 21:03
 
 wireguard://QEaMik5W0xslu5p0BnLjY%2FHKomr8RRsbJWv1oqEJ82Q%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=196%2C177%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-02 18:02
+
+wireguard://QIAj%2B0jJxbDygyRf8ed3F%2BaYPaj%2FxRT6O%2FP9MTL9HWc%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=56%2C148%2C123&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-05 18:03
 
 wireguard://YKVuKsPVZSzauDdoCw7F5Y6q1BhYEa%2F2%2FQVSoCE1Jl4%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=242%2C100%2C96&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-03 10:02
 
