@@ -28,27 +28,35 @@ trojan://telegram-id-privatevpns@52.47.89.66:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@63.184.25.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://05632886-f2b2-4409-bb8a-d85b64891fe0@185.143.235.200:80?type=httpupgrade&encryption=none&path=%2F&host=omran.pointspeed.ir&security=none#filembad-35 Need a premium VPN config? Try @failvpn_bot
+vless://0fcba976-da97-4f11-aed7-3d55cf275468@rfiksma.top:13232?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-47 Need a premium VPN config? Try @failvpn_bot
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#filembad-171 Need a premium VPN config? Try @failvpn_bot
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da.6.112.0:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#filembad-127 Need a premium VPN config? Try @failvpn_bot
+
+vless://4b581293-af3a-4658-b9b2-06949626bf86.17.72.206:443?mode=auto&path=%2F%40SheriffNet&security=tls&encryption=none&insecure=0&host=cdnde.sheriffbus.com&fp=firefox&type=xhttp&allowInsecure=0&sni=cdnde.sheriffbus.com#filembad-148 Need a premium VPN config? Try @failvpn_bot
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#filembad-161 Need a premium VPN config? Try @failvpn_bot
 
 vless://649a8f7a-59f7-4b3f-b733-e671086c9ad8@194.39.254.113:26480?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-191 Need a premium VPN config? Try @failvpn_bot
 
 vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#ProxyMtpVPN-192 Need a premium VPN config? Try @failvpn_bot
 
-vless://661da941-5333-4b32-bcfc-db184a20d4dd@ww.iwantmoney.ir:8880?path=%2F&security=none&encryption=none&type=ws#NetMeli9-187 Need a premium VPN config? Try @failvpn_bot
+vless://6fd98b96-9dd2-442c-92a4-a449cdf0fd1e@5.239.245.250:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ef88878e-c5a7-412f-82f1-0b09c6792d29.hollowspot.ir&path=/api/v1/uuid/9e97a8c9-fdb0-4dfb-9557-2a90a554aee4&fp=safari&alpn=http/1.1#filembad-213 Need a premium VPN config? Try @failvpn_bot
+
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-224 Need a premium VPN config? Try @failvpn_bot
+
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@185.146.173.20:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#NormanV2ray-263 Need a premium VPN config? Try @failvpn_bot
 
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-253 Need a premium VPN config? Try @failvpn_bot
 
 vless://c377c6ee-576a-4295-801e-35704d12184e@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#NetMeli9-306 Need a premium VPN config? Try @failvpn_bot
-
-vless://cd9fb580-d65d-4454-abcd-1666f6402952@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#filembad-311 Need a premium VPN config? Try @failvpn_bot
 
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F&security=tls&encryption=none&insecure=1&host=rayan-007.foton.dpdns.org&type=ws&allowInsecure=1&sni=rAyAn-007.fOtOn.dPdNs.oRg#ProxyMtpVPN-333 Need a premium VPN config? Try @failvpn_bot
 
 vless://e863faa1-7505-493b-963a-909fa5984041@srv1.safeunity.shop:18510?security=&encryption=none&type=ws#canfingV2rayNG-343 Need a premium VPN config? Try @failvpn_bot
 
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&host=kamalnet.pages.dev&fp=chrome&type.Vrapaws@#filembad-360 Need a premium VPN config? Try @failvpn_bot
+
+vless://fb098fc0-b41d-430d-9b92-49705687904e@shaparak.ultrrasound.com:19949?security=&encryption=none&host=telewebion.com&type=ws#canfingV2rayNG-380 Need a premium VPN config? Try @failvpn_bot
 
 wireguard://2CBJLMZdd7lXppbPcDcFKm069%2FUh8u%2FhNbdFiofLBW0%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=91%2C25%2C136&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-12 18:01
 
