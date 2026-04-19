@@ -32,10 +32,6 @@ vless://28bf4895-108e-4c0a-8a7d-d1c4521e5621@NullNetwork.vianabeauty.ir:21839?ty
 
 vless://2ac0ee37-fdc4-4afa-8141-f960c49ece60@188.121.120.140:56557?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#ProxyMtpVPN-109 Need a premium VPN config? Try @failvpn_bot
 
-vless://3655caf2-a709-4e44-f353-773ddda24d7b@3.64.178.198:36512?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-126 Need a premium VPN config? Try @failvpn_bot
-
-vless://5874ce17-1e4a-4cf5-b67e-c88da6194616@172.67.181.144:443?path=/eyJqdW5rIjoicHFDN0R3VG1PTmZVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=royal-limit-4b1c.rosomo9596.workers.dev&fp=chrome&type=ws&sni=rOYAl-LiMIt-4B1C.ROSomO9596.workerS.deV#filembad-163 Need a premium VPN config? Try @failvpn_bot
-
 vless://74f2d518-fb8e-46d3-90a1-bd74b10b5cce@p.brun-tbsop.ir:40408?security=none&encryption=none&headerType=none&type=tcp#filembad-212 Need a premium VPN config? Try @failvpn_bot
 
 vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-242 Need a premium VPN config? Try @failvpn_bot
@@ -45,6 +41,8 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&fp=chrome&type=ws&sni=zh.hollowspot.ir#Config_magazine-335 Need a premium VPN config? Try @failvpn_bot
 
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&fp=chrome&type=ws&sni=zh.hollowspot.ir#Config_magazine-338 Need a premium VPN config? Try @failvpn_bot
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&path=%2Fhttp#NormanV2ray-350 Need a premium VPN config? Try @failvpn_bot
 
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=webassets.cafebazaar.ir#filembad-390 Need a premium VPN config? Try @failvpn_bot
 
@@ -64,13 +62,13 @@ wireguard://MNtOs8cjdGF8ZhFdLI5t1NNF9Z5l5CKRVc%2BGlpiIL24%3D@162.159.192.6:2408?
 
 wireguard://SOKOzH4TNRLYACFGhc5eOq4Mnxdp2jaVZufzfGps0lw%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=254%2C238%2C229&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-13 21:02
 
-wireguard://WNETk16spIpbReNJXQPWkJho%2BzwmB9CXfKch95Bkekg%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=21%2C169%2C118&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-13 10:01
-
 wireguard://YMtmXyeFPOEBDw6Vntr4Zfigk10bVYuWdsO1XpLth00%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=235%2C200%2C94&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-16 10:03
 
 wireguard://gHDfwUgIUuSvxehl1e8lgXHdJdp%2BhQpakd5P4pXtVFo%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=91%2C246%2C109&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-16 18:03
 
 wireguard://kDKWv4hae1OVIuBF1x%2FLVmwfpJAURJa6Vao1IucFjHk%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=160%2C38%2C50&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-15 21:02
+
+wireguard://kMXxZMuUfrLLNQtCt66fRnuSq60gX1z1zFr5hGtpIkk%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=156%2C170%2C12&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-18 10:03
 
 wireguard://sG0O1%2FpwK5jcoWdwF%2B9bElJ%2FPmNtekmN1yGU2WSSY3M%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=230%2C33%2C228&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-14 21:02
 
