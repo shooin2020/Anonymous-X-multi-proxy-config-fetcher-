@@ -36,15 +36,13 @@ vless://2dc93929-242f-455f-83e4-a85a6a59546a@81.12.46.173:443?security=&encrypti
 
 vless://3c690573-841d-4786-89bf-a61210269a48@protecttwo.starmizban.com:443?security=tls&sni=protecttwo.starmizban.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protecttwo.starmizban.com&encryption=none#filembad-104 Need a premium VPN config? Try @failvpn_bot
 
-vless://5050193d-1a82-4fea-933d-994083bae6a7@anten.ir:80?path=%2F&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#NormanV2ray-113 Need a premium VPN config? Try @failvpn_bot
-
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#filembad-125 Need a premium VPN config? Try @failvpn_bot
-
-vless://76519b4d-f880-4fa5-e02f-77df232fa79e@3.67.176.243:36062?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-155 Need a premium VPN config? Try @failvpn_bot
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-175 Need a premium VPN config? Try @failvpn_bot
 
 vless://8109d4a8-7466-4fa3-fd1a-968880548bc5@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-172 Need a premium VPN config? Try @failvpn_bot
 
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.109.4:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-184 Need a premium VPN config? Try @failvpn_bot
+
+vless://a7a9ba8d-fefe-4f91-804b-75ce163fa0a0@snapp.ir:80?path=%2F&security=none&encryption=none&host=ssssssma.linuwebtunnel.site&type=ws#filembad-220 Need a premium VPN config? Try @failvpn_bot
 
 vless://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-221 Need a premium VPN config? Try @failvpn_bot
 
