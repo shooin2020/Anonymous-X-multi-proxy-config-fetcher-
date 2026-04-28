@@ -28,19 +28,23 @@ trojan://telegram-id-privatevpns@63.181.194.157:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@63.183.130.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://1d509c22-4e43-4067-9185-873ec5bb49da@de3.b762plus.shop:2016?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-57 Need a premium VPN config? Try @failvpn_bot
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#canfingV2rayNG-82 Need a premium VPN config? Try @failvpn_bot
 
 vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://2e162591-c689-495e-804c-04b53ca50dd0@185.143.233.200:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=final.idbedam.ir#filembad-100 Need a premium VPN config? Try @failvpn_bot
 
-vless://4cdbafa1-dc9d-45ae-bb3a-e24419993a0f@tun1.aria-network.cloud:443?security=tls&type=ws&headerType=&path=%2F&host=&sni=svfr1.aria-network.cloud&fp=#filembad-135 Need a premium VPN config? Try @failvpn_bot
+vless://30ae3e46-f331-4b05-a055-80c3899d00a6@snapp.ir:80?encryption=none&type=ws&path=%2Fgraphql%3Fed%3D2560&host=cdngraph.newmew.site#LoopLine_Ir-109 Need a premium VPN config? Try @failvpn_bot
 
-vless://5bfe1ea1-1000-4b29-9f58-f9dfa2bc880d@snapp.ir:80?type=ws&encryption=none&path=%2Fergreergs&host=confal.caferozi.ir&security=none#filembad-139 Need a premium VPN config? Try @failvpn_bot
+vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#NormanV2ray-172 Need a premium VPN config? Try @failvpn_bot
 
-vless://5c1b9ecc-e085-443a-8c3e-804459e91700@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=dom.amirenzohost.ir&security=none#NetMeli9-140 Need a premium VPN config? Try @failvpn_bot
+vless://6c250bf9-ec51-49e0-ab0d-6155d7d5b9a6@185.208.79.246:15930?security=none&encryption=none&headerType=none&type=tcp#filembad-180 Need a premium VPN config? Try @failvpn_bot
 
-vless://8a6b85b0-c41d-4982-b7f3-e7e4bdcf4ebe@snapp.ir:80?path=%2F&security=none&encryption=none&host=dlo1.digitalcity5.site&fp=chrome&type=ws#filembad-217 Need a premium VPN config? Try @failvpn_bot
+vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&host=my.vulmart.ir&type=ws&sni=my.vulmart.ir#NetMeli9-192 Need a premium VPN config? Try @failvpn_bot
+
+vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=new.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=new.sordo.store#ProxyMtpVPN-204 Need a premium VPN config? Try @failvpn_bot
+
+vless://a14b7b56-ac2d-48a6-8558-275074842f70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=1&host=camp.nahidapp.com&type=ws&allowInsecure=1#filembad-261 Need a premium VPN config? Try @failvpn_bot
 
 vless://c622d4dc-a0da-4f0a-9d3d-be3178eec11b@snapp.ir:80?encryption=none&host=fonix.musicritmic.ir&path=%2F&security=none&type=ws#filembad-307 Need a premium VPN config? Try @failvpn_bot
 
