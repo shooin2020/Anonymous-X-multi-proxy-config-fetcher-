@@ -32,31 +32,25 @@ trojan://telegram-id-privatevpns@63.184.151.28:22222?security=tls&alpn=http/1.1&
 
 vless://06c9fd44-3a53-4c2a-877c-01df0d32e4ee@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=ri.amirenzohost.ir&security=none#LoopLine_Ir-30 Need a premium VPN config? Try @failvpn_bot
 
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#filembad-33 Need a premium VPN config? Try @failvpn_bot
-
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#canfingV2rayNG-79 Need a premium VPN config? Try @failvpn_bot
 
 vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+
+vless://3618297d-a934-4e04-a548-856d186ed6a7@snapp.ir:80?encryption=none&type=ws&path=%2F&host=biawban.yeksancloud.ir#NormanV2ray-117 Need a premium VPN config? Try @failvpn_bot
 
 vless://639c8b45-a9d0-48cf-b782-e80d73281f7b@mhmd.komak-ar-online.online:2052?path=%2F&security=none&encryption=none&type=ws#filembad-168 Need a premium VPN config? Try @failvpn_bot
 
 vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#ProxyMtpVPN-171 Need a premium VPN config? Try @failvpn_bot
 
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi3.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-211 Need a premium VPN config? Try @failvpn_bot
-
 vless://8d8310cf-5257-4539-94f0-9b1c3822533e@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#filembad-237 Need a premium VPN config? Try @failvpn_bot
 
-vless://a2f046ac-33ac-4eb2-9a5e-8e3d1e0166b8@As.dlsp-ir.com:2053?security=reality&encryption=none&pbk=eQiAdpGi9koz3778TAigmYSwoG4A1I8ewrzd6TvDTQQ&headerType=none&fp=safari&spx=%2FeuKprVQFucWhOAM&type=tcp&sni=web.bale.ai&sid=c7d77e#filembad-275 Need a premium VPN config? Try @failvpn_bot
+vless://937ca7c8-fc8c-4c7d-89e6-5b1cf7014ddf@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-234 Need a premium VPN config? Try @failvpn_bot
+
+vless://9e8d2012-bafc-4f43-8baf-94ac4de60784@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#NetMeli9-251 Need a premium VPN config? Try @failvpn_bot
 
 vless://ab5e387b-4285-4148-9665-e66d640cf4eb@freeworld.nightwolf.blog:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=freeworld.nightwolf.blog#filembad-285 Need a premium VPN config? Try @failvpn_bot
 
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#canfingV2rayNG-295 Need a premium VPN config? Try @failvpn_bot
-
 vless://be0bff33-a095-4f82-9edb-9073c3ba08af@arvan1.un1ty.ir:80?encryption=none&host=&path=/jesuschrist&security=none&type=ws#filembad-302 Need a premium VPN config? Try @failvpn_bot
-
-vless://f723ec59-7c75-4a52-8e86-1e32ae506b4c@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#filembad-390 Need a premium VPN config? Try @failvpn_bot
-
-vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@18.156.128.77:15948?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-386 Need a premium VPN config? Try @failvpn_bot
 
 vless://telegram-id-%40netstux@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=cpanel2.limitless-cloud.ir&type=ws#ProxyMtpVPN-390 Need a premium VPN config? Try @failvpn_bot
 
@@ -68,6 +62,8 @@ wireguard://8CcEhnchRxR8JMVofTWdO7BtpXx0QLVINfBzWwoZtns%3D@162.159.192.5:4500?ad
 
 wireguard://EMXKaGh4Ds89P7mWv4Jh3XoVZulobkVg7m80Jw6BrnY%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=190%2C85%2C2&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-01 18:04
 
+wireguard://GEAv444DfvTsR9POQpUFk3BiOJ38D%2BRy85c%2FWV5RRGk%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=41%2C136%2C253&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-02 21:00
+
 wireguard://KHUM%2BB0gkpc2HcRqdZBt4iEH6Cf6sBjFfHBttFDHtlM%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=8%2C48%2C119&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-29 18:03
 
 wireguard://QLIFVbaXkWPnYHbWQmneqnOomF%2Bj4dJ%2FCl031wwQDWs%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=103%2C158%2C21&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-01 21:04
@@ -75,8 +71,6 @@ wireguard://QLIFVbaXkWPnYHbWQmneqnOomF%2Bj4dJ%2FCl031wwQDWs%3D@162.159.192.3:500
 wireguard://SEQ%2FKs%2F1Vqt56atwBaC%2FpC7v5V9V%2BJgAw9zjVBXPMHs%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=118%2C133%2C112&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-28 21:03
 
 wireguard://UK754tk1tgwzEA%2FuZBUHi9jkOKwmMD2AiXrbJkrXdE8%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=130%2C114%2C157&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-01 10:04
-
-wireguard://gN1SRG1u9ZLjZ6H58%2FFQTnOaRNFSDQa%2Fbw%2F%2B1msjsnQ%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=39%2C2%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-27 21:02
 
 wireguard://gPp2ccvQS9adu228HbRy7wQZkzEczlrH87oweB%2FIcWo%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=3%2C60%2C199&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-29 10:03
 
