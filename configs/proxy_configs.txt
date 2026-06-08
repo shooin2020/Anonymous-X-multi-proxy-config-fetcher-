@@ -1,14 +1,8 @@
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#canfingV2rayNG-17 Need a premium VPN config? Try @failvpn_bot
-
-trojan://Masir_Sefid@188.213.130.61:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#filembad-20 Need a premium VPN config? Try @failvpn_bot
-
-trojan://Masir_Sefid@195.15.253.91:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#NetMeli9-23 Need a premium VPN config? Try @failvpn_bot
-
-trojan://Masir_Sefid@195.15.253.91:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#NetMeli9-24 Need a premium VPN config? Try @failvpn_bot
-
-trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#NetMeli9-25 Need a premium VPN config? Try @failvpn_bot
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#filembad-16 Need a premium VPN config? Try @failvpn_bot
 
 trojan://telegram-id-privatevpns@13.36.204.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@13.36.253.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.36.26.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -16,11 +10,11 @@ trojan://telegram-id-privatevpns@13.37.4.238:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@15.237.161.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@18.156.210.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@18.159.57.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.193.146.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.120.68.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.124.101.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -28,33 +22,35 @@ trojan://telegram-id-privatevpns@3.69.206.28:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@51.44.143.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#filembad-60 Need a premium VPN config? Try @failvpn_bot
+trojan://telegram-id-privatevpns@51.44.200.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#canfingV2rayNG-127 Need a premium VPN config? Try @failvpn_bot
+trojan://telegram-id-privatevpns@52.47.65.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.178.183.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.112.71.172:7443?security=reality&encryption=none&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#filembad-87 Need a premium VPN config? Try @failvpn_bot
+
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#canfingV2rayNG-96 Need a premium VPN config? Try @failvpn_bot
+
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir#canfingV2rayNG-137 Need a premium VPN config? Try @failvpn_bot
 
 vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://4a956dfd-b65a-4846-b6da-c85fc79918a5@104.21.46.101:2086?path=%2FeyJqdW5rIjoibW81VDZwNXg5S2IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=none&encryption=none&host=green-scene-32df.atalastchance.workers.dev&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-144 Need a premium VPN config? Try @failvpn_bot
+vless://58a527d8-3236-43e0-b437-552f4a67c2fd@IPv4-address.apiappirani.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=webmail.iranisystem.com&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#filembad-171 Need a premium VPN config? Try @failvpn_bot
 
-vless://62c82c17-c70f-002d-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=firefox&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=workspace.sablefrost.com#filembad-176 Need a premium VPN config? Try @failvpn_bot
+vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&type=ws&path=%2F&host=melli.santelacu.ir#NormanV2ray-140 Need a premium VPN config? Try @failvpn_bot
 
-vless://6e0f8004-0c60-4f16-9e82-0b5404314947@188.114.97.6:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Kyuu.downloadgameiran.ir&type=xhttp&allowInsecure=0&sni=Kyuu.downloadgameiran.ir#v2ray_configs_pool-191 Need a premium VPN config? Try @failvpn_bot
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#filembad-208 Need a premium VPN config? Try @failvpn_bot
 
-vless://758ac7b5-bebf-4996-ba38-e8bde361e212@de.epsteinisland.site:2053?path=%2F&security=none&encryption=none&host=google.com&type=ws#Config_magazine-194 Need a premium VPN config? Try @failvpn_bot
-
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#filembad-268 Need a premium VPN config? Try @failvpn_bot
+vless://a3eb4c35-c1df-4448-968c-f6229cba9de0@probabblynot.fazelextremeisreal.com:29870?security=reality&encryption=none&pbk=cWrLzTqWRYMQq8vsgN7rHtUxrDdqxDLNEWAuo_eXlRU&headerType=none&fp=chrome&spx=%2FThCIJ6AlpUdv5Oh&type=tcp&sni=www.refersion.com&sid=821863f0#canfingV2rayNG-237 Need a premium VPN config? Try @failvpn_bot
 
 vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.191:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://af1427b3-6257-4e99-97d5-3ddd6288784a@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#v2ray_configs_pool-302 Need a premium VPN config? Try @failvpn_bot
-
 vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@87.120.93.184:585?mode=gun&security=reality&encryption=none&pbk=h3X9wHgvXZeLAmsfCIyQdPJIaeaxwcqL_FDZuZL2IWE&fp=edge&type=grpc&sni=flow-3983.atlanta-games.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@nether2cxc.ignorelist.com:443?security=reality&encryption=none&pbk=MNfRDUdBmptd-zKqgIljosss5-oNO44Lt68hgVwa_Qo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nether2cxc.ignorelist.com&sid=22f2d3f943dfcb40#filembad-336 Need a premium VPN config? Try @failvpn_bot
-
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80/?type=ws&encryption=none&flow=&host=main.boobie.eu.cc&path=%2F#filembad-358 Need a premium VPN config? Try @failvpn_bot
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#v2ray_configs_pool-287 Need a premium VPN config? Try @failvpn_bot
 
 wireguard://2J8i%2BHUAm6X%2Fy1pXRGTpcgEVXqxnvCaZkBM10dZqulo%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=110%2C75%2C228&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-07 18:04
 
@@ -70,11 +66,11 @@ wireguard://QCvuSNKfmqYIVQw4BIEX%2FtSSOhhN5uDpAOzTW%2Fh4okY%3D@162.159.192.4:240
 
 wireguard://QJEpilscgBJU68hsICv40%2B5eEvOFp0TOb5WqAeu9Gls%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=251%2C139%2C179&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-05 18:04
 
-wireguard://QN9e%2F%2FMZcXBdaz7vDo7hX6tY5xh2yFzlActftLGlA10%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=255%2C89%2C117&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-03 18:03
-
 wireguard://cDW2xAYGJyQjgfUqpw17zwH5nlLLVaXDH7KwtAlqNkM%3D@162.159.192.5:4500?address=172.16.0.2%2F32&reserved=154%2C200%2C140&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-06 21:04
 
 wireguard://cFK4T1B50GeYtv21Gg%2FcxRtXT19PDYBOtby8RAfFG00%3D@162.159.192.7:500?address=172.16.0.2%2F32&reserved=76%2C247%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-06 18:04
+
+wireguard://cLopz5kQHgwZUGE6r7f7YGAkvbYbAEblp9GRVsbc%2B0g%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=132%2C240%2C17&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-08 18:00
 
 wireguard://iHmpbPAWm1x6R3cX6WkVB%2Brla1bnVRE3sEEPRno3WW8%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=137%2C41%2C130&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-06-04 10:03
 
