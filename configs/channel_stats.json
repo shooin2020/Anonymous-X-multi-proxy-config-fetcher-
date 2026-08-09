@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-08-09T14:42:07.355143",
+  "timestamp": "2026-08-09T15:39:10.511837",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.56,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.54,
-        "last_success": "2026-08-09T14:41:33.555443"
+        "overall_score": 91.42,
+        "last_success": "2026-08-09T15:38:36.797717"
       }
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -50,24 +50,24 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.82,
-        "last_success": "2026-08-09T14:41:57.183488"
+        "overall_score": 97.8,
+        "last_success": "2026-08-09T15:39:00.359243"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 3,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     }
