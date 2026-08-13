@@ -8,15 +8,11 @@ vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=%2Fws%2F1f3475
 
 vless://2caefa39-316a-cdf7-1f98-cfe200000000@8.6.112.9:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=narcic.narcic.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=narcic.narcic.workers.dev#V-Core-443-Admin
 
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2059?security=none&encryption=none&headerType=none&type=tcp#filembad-237 Need a premium VPN config? Try @failvpn_bot
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#canfingV2rayNG-184 Need a premium VPN config? Try @failvpn_bot
 
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg%3Fed%3D512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#NormanV2ray-309 Need a premium VPN config? Try @failvpn_bot
 
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi_%2Fv2rayNplus--v2rayNplus--v2rayNplus#v2ray_configs_pool-313 Need a premium VPN config? Try @failvpn_bot
-
-vless://86432e65-19a8-42bb-8c75-d8cb5ddcadb8@104.16.6.70:2087?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ip-7.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=firefox&type=xhttp&allowInsecure=0&sni=ip-9.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com#ProxyMtpVPN-322 Need a premium VPN config? Try @failvpn_bot
-
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#canfingV2rayNG-364 Need a premium VPN config? Try @failvpn_bot
+vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?path=%2F&security=tls&encryption=none&insecure=0&host=us-akile.nanniang.top&fp=chrome&type=ws&allowInsecure=0&sni=us-akile.nanniang.top#v2ray_configs_pool-336 Need a premium VPN config? Try @failvpn_bot
 
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#canfingV2rayNG-375 Need a premium VPN config? Try @failvpn_bot
 
@@ -27,6 +23,8 @@ vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@fr--------------------------sdcs-fd
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&alpn=%40.networld_vpn-&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#canfingV2rayNG-464 Need a premium VPN config? Try @failvpn_bot
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22224?encryption=none&security=none&type=tcp&headerType=none#filembad-531 Need a premium VPN config? Try @failvpn_bot
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#canfingV2rayNG-527 Need a premium VPN config? Try @failvpn_bot
 
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#canfingV2rayNG-558 Need a premium VPN config? Try @failvpn_bot
 
