@@ -1,10 +1,14 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#ProxyMtpVPN-31 Need a premium VPN config? Try @failvpn_bot
-
 ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#filembad-40 Need a premium VPN config? Try @failvpn_bot
 
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#v2ray_configs_pool-45 Need a premium VPN config? Try @failvpn_bot
+
 trojan://MiTiVPN@199.232.78.150:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FSG---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s4b-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#ProxyMtpVPN-62 Need a premium VPN config? Try @failvpn_bot
+
+vless://234c52f2-0d7b-dc4a-0d6b-b0b300000023@172.67.96.178:80?security=none&type=ws&path=%2Fsync&host=billowing-surf-d251.netizo06.workers.dev&packetEncoding=xudp&sni=billowing-surf-d251.netizo06.workers.dev&encryption=none#v2ray_configs_pool-127 Need a premium VPN config? Try @failvpn_bot
+
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#canfingV2rayNG-134 Need a premium VPN config? Try @failvpn_bot
 
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#canfingV2rayNG-147 Need a premium VPN config? Try @failvpn_bot
 
@@ -12,11 +16,13 @@ vless://2caefa39-316a-cdf7-1f98-cfe200000000@8.6.112.9:443?path=%2Fsync&security
 
 vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@157.230.29.236:28890?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-184 Need a premium VPN config? Try @failvpn_bot
 
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn2.portalcode.ir:2095?path=%2F&security=&encryption=none&host=usv4.monopolitass.ir&type=httpupgrade#canfingV2rayNG-287 Need a premium VPN config? Try @failvpn_bot
-
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.39.176:443?security=reality&encryption=none&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk.velajio.com&sid=c1fda2f8f007e108#filembad-298 Need a premium VPN config? Try @failvpn_bot
 
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#canfingV2rayNG-287 Need a premium VPN config? Try @failvpn_bot
+
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#canfingV2rayNG-374 Need a premium VPN config? Try @failvpn_bot
+
+vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#filembad-398 Need a premium VPN config? Try @failvpn_bot
 
 vless://c648c6d0-4d3e-4f51-8ee6-4fcdbdddd684@peekconfig.hamrahfree2.workers.dev:2096?security=tls&type=ws&path=%2FeyJqdW5rIjoibTBZdXp5cm93NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560&host=peekconfig.hamrahfree2.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=PEekCoNFig.hAMRahfreE2.wORKERs.dEv&fp=chrome&encryption=none#v2ray_configs_pool-429 Need a premium VPN config? Try @failvpn_bot
 
@@ -25,8 +31,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&securi
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:989?security=none&encryption=none&headerType=none&type=tcp#filembad-510 Need a premium VPN config? Try @failvpn_bot
-
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.16:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#ProxyMtpVPN-548 Need a premium VPN config? Try @failvpn_bot
 
 wireguard://0H5E%2FdKwM3fTvpq3hX3STQozToRxN9J9O%2Byi4j%2BLkmY%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=231%2C47%2C70&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-08-11 21:01
 
