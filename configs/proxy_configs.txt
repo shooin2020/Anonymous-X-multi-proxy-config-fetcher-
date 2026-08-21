@@ -4,27 +4,25 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.2
 
 ss://YWVzLTI1Ni1nY206TlROak1tWTBZek0yT1RJd1l6QmtObUprWkdGaU5qSm1OR1V4WkdFeA@helsinki02.npvnot.com:995#v2ray_configs_pool-24 Need a premium VPN config? Try @failvpn_bot
 
+trojan://FH72359861@35.159.21.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=summary-lemming.rooster465.autos#ProxyMtpVPN-35 Need a premium VPN config? Try @failvpn_bot
+
 vless://2caefa39-316a-cdf7-1f98-cfe200000000@8.6.112.9:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=narcic.narcic.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=narcic.narcic.workers.dev#V-Core-443-Admin
 
 vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#canfingV2rayNG-160 Need a premium VPN config? Try @failvpn_bot
 
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#canfingV2rayNG-158 Need a premium VPN config? Try @failvpn_bot
 
-vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2053&host=sunny-comet-55.curiocar.com&sni=sunny-comet-55.curiocar.com&fp=edge&alpn=h2%2Chttp%2F1.1&allowInsecure=1#canfingV2rayNG-189 Need a premium VPN config? Try @failvpn_bot
-
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#filembad-226 Need a premium VPN config? Try @failvpn_bot
 
-vless://b7c8835c-c573-4579-94b3-bda09a576bfa@66.33.22.224:57573?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=AYngv-8Leu8hVhpbj06s-OkrTdPNFNrcQwmEAtB0akY&fp=chrome&spx=%2F5PHVWYGR9tSjsd8&type=xhttp&sni=is1-ssl.mzstatic.com&sid=5c04e0d4#filembad-353 Need a premium VPN config? Try @failvpn_bot
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#canfingV2rayNG-240 Need a premium VPN config? Try @failvpn_bot
 
 vless://bb65d1fa-f051-4e59-834c-92476bfb5e76@78.135.77.81:443?security=reality&encryption=none&pbk=cAxXNYa_hg_WJxa5jRWupnQf9J-OfShX0tqXvpWeZVc&headerType=none&fp=chrome&spx=%2Fb0ccce5ec4d17f5&type=tcp&sni=www.cloudflare.com&sid=203afac07a#filembad-372 Need a premium VPN config? Try @failvpn_bot
 
-vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&sni=gb.cdn.cachefleet.com&flow=xtls-rprx-vision&type=tcp&security=reality&encryption=none&fp=chrome#filembad-388 Need a premium VPN config? Try @failvpn_bot
-
-vless://be3ec3a4-e00d-4bfa-847b-256d504be5d1@178.105.233.205:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fsUcGmt2L9a1yxLWD5wspJtJHma_B51r3KWQk8-uBTw&security=reality&sid=0b522ec4&sni=aws-us-west-2.amazon.com&spx=%2FLbrD1nKacFI2SXA&type=tcp#filembad-403 Need a premium VPN config? Try @failvpn_bot
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&security=reality&sni=gb.cdn.cachefleet.com&type=tcp#filembad-389 Need a premium VPN config? Try @failvpn_bot
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22223?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-441 Need a premium VPN config? Try @failvpn_bot
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-447 Need a premium VPN config? Try @failvpn_bot
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22224?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-445 Need a premium VPN config? Try @failvpn_bot
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
