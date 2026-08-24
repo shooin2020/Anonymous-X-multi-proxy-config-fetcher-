@@ -1,10 +1,10 @@
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#canfingV2rayNG-46 Need a premium VPN config? Try @failvpn_bot
-
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#filembad-67 Need a premium VPN config? Try @failvpn_bot
-
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#NormanV2ray-98 Need a premium VPN config? Try @failvpn_bot
 
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#filembad-103 Need a premium VPN config? Try @failvpn_bot
+
 vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=%2Fapi#canfingV2rayNG-128 Need a premium VPN config? Try @failvpn_bot
+
+vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@At.Sav-savteAm.iR:2007?mode=auto&path=%2F&security=reality&encryption=none&pbk=kmZbdvBKxDfqk_hkKUaljGXLWy9fI7wth0PhVdNAuBk&fp=chrome&type=xhttp&sni=updates.cdn-apple.com&sid=e7f0105af761d925#ProxyMtpVPN-146 Need a premium VPN config? Try @failvpn_bot
 
 vless://2caefa39-316a-cdf7-1f98-cfe200000000@8.6.112.9:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=narcic.narcic.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=narcic.narcic.workers.dev#V-Core-443-Admin
 
@@ -14,9 +14,9 @@ vless://301f9f35-73c7-4ae0-bbe9-7dd86da19f50@91.107.140.160:443?security=reality
 
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#ProxyMtpVPN-160 Need a premium VPN config? Try @failvpn_bot
 
-vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@plot.whit3.net:443?security=reality&encryption=none&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plot.whit3.net&sid=0138875bd7d8725a#filembad-160 Need a premium VPN config? Try @failvpn_bot
-
 vless://3757a383-ca03-4d85-a4f0-5c9602a8949a@webb.gdsrguydsrghj.ir:1010?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-167 Need a premium VPN config? Try @failvpn_bot
+
+vless://728f3492-5b41-43cc-8c62-f1504376a900@snapp-ja.topdigit.ir:5520?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=RywMRWtTpztZ-WjLRVlLOdTFi3NpWLx1sglNvLIoYHs&sid=11b0b21536dc5a39#filembad-253 Need a premium VPN config? Try @failvpn_bot
 
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#canfingV2rayNG-264 Need a premium VPN config? Try @failvpn_bot
 
@@ -24,9 +24,9 @@ vless://80f083d3-8348-4514-b075-62f303b7fd86@188.114.97.6:8080?path=%2Fpyip%3DPr
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#ProxyMtpVPN-467 Need a premium VPN config? Try @failvpn_bot
 
-wireguard://%2BHXFq5xjumHIIWQs3nyXnZp1CWE7NsOhfFJIee0ebmE%3D@162.159.195.13:2408?address=172.16.0.2%2F32&reserved=252%2C88%2C192&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-08-22 18:03
+wireguard://%2BDXCm%2BZ4sqF5eJV4XVjnx13qY3kUD8099ylM4rwZWlk%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=3%2C158%2C99&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-08-23 18:04
 
-wireguard://2Jt6rqWvs4r6aCEG9Wh6q%2BMQITmrwcSzkPIiFR6TMHU%3D@162.159.195.5:908?address=172.16.0.2%2F32&reserved=151%2C59%2C79&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-08-18 18:01
+wireguard://%2BHXFq5xjumHIIWQs3nyXnZp1CWE7NsOhfFJIee0ebmE%3D@162.159.195.13:2408?address=172.16.0.2%2F32&reserved=252%2C88%2C192&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-08-22 18:03
 
 wireguard://ABYA%2BcClY7QyWiry%2FHkyjz%2BAKWZuygunWzOZ0OCo7UQ%3D@162.159.192.14:908?address=172.16.0.2%2F32&reserved=73%2C47%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-08-23 10:04
 
